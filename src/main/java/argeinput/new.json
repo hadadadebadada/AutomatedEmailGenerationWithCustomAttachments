@@ -1,0 +1,207 @@
+{
+  "stellenangebote": [
+    {
+      "company": "userwerk GmbH",
+      "title": " Senior Data Science ",
+      "ref": "hr@userwerk.com",
+      "url": "10000-1188939856-S",
+      "address": "Ehinger Str. 19\n89077 Ulm, Donau"
+    },
+    {
+      "company": "Bundesamt f\u00fcr Verbraucherschutz und Lebensmittelsicherheit (BVL)",
+      "title": " Fachinformatikerin/Fachinformatiker (w/m/d) ",
+      "ref": "bewerbung@bvl.bund.de",
+      "url": "10000-1189009648-S",
+      "address": "Mauerstr. 39-42\n10117 Berlin"
+    },
+    {
+      "company": "GFAD Softwarehaus GmbH",
+      "title": " Junior App-Entwickler / Softwareentwickler (m/w/d) ",
+      "ref": "personal@gfad.de",
+      "url": "10000-1188584052-S",
+      "address": "Huttenstr. 34-35\n10553 Berlin - Moabit"
+    },
+    {
+      "company": "IT-KMS GmbH",
+      "title": " Fachinformatiker (m/w/d) im Kundensupport und Rollout ",
+      "ref": "bewerbung@it-kms.de",
+      "url": "10000-1187975452-S",
+      "address": "Am Borsigturm 33\n13507 Berlin"
+    },
+    {
+      "company": "Bundesinstitut f\u00fcr Risikobewertung",
+      "title": " Informatiker/in im Geb\u00e4udemanagement (w/m/d) ",
+      "ref": "bewerbung@bfr.bund.de",
+      "url": "10000-1188987619-S",
+      "address": "Max-Dohrn-Str. 8-10\n10589 Berlin - Charlottenburg"
+    },
+    {
+      "company": "Berliner Wasserbetriebe",
+      "title": " Cloud-Service-Manager:in (w/m/d) Job-ID: 953 ",
+      "ref": "mh@mannroth.de",
+      "url": "10000-1188980714-S",
+      "address": "Neue J\u00fcdenstr. 1\n10179 Berlin - Mitte:Berlin-Mitte"
+    },
+    {
+      "company": "Deutscher Bundestag Verwaltung",
+      "title": " Mitarbeiter im IT-Support (w/m/d) IT 2/912.4 ",
+      "ref": "bewerbung.zv2@bundestag.de",
+      "url": "10000-1188985080-S",
+      "address": "Platz der Republik 1\n10557 Berlin - Tiergarten"
+    },
+    {
+      "company": "Modis GmbH Stuttgart",
+      "title": " IT-Supporter (m/w/d) in Neu-Ulm gesucht! ",
+      "ref": "patrycja.zdrojewska@modis.com",
+      "url": "10000-1188061003-S",
+      "address": "Friedrichstr. 6\n70174 Stuttgart"
+    },
+    {
+      "company": "Berl. Verkehrsbetr. (BVG)Ansta lt d.\u00f6ffentl. Rechts",
+      "title": " IT-Planerin / IT-Planer (w/m/d) IT-Security ",
+      "ref": "ecruiting@bvg.de",
+      "url": "10000-1188964282-S",
+      "address": "Holzmarktstr. 15-17\n10179 Berlin"
+    },
+    {
+      "company": "Hexad GmbH - Wolfsburg",
+      "title": " Software developer (m/f/d) ",
+      "ref": "career@hexad.de",
+      "url": "10000-1188961147-S",
+      "address": "Porschestr. 58\n38440 Wolfsburg - Innenstadt"
+    },
+    {
+      "company": "F mal s GmbH",
+      "title": " Softwaretester (m/w/d) ",
+      "ref": "bewerbung@fmals.de",
+      "url": "10000-1188960318-S",
+      "address": "Am Krausen Baum 8\n51067 K\u00f6ln"
+    },
+    {
+      "company": "MedTec Healthcare Recruitment",
+      "title": " Mathematiker/Software-Entwickler (m/w/d) Medizintechnik, Berlin, KC1522 ",
+      "ref": "raus@medtec-hr.de",
+      "url": "10000-1188600708-S",
+      "address": "Friedrichsplatz 8\n68165 Mannheim"
+    },
+    {
+      "company": "frag FINN e.V.",
+      "title": " Projektmanagement/ IT-Entwicklung (m/w/d) im Bereich K\u00fcnstliche Intelligenz und Suchmaschine ",
+      "ref": "jobs@fragfinn.de",
+      "url": "10000-1188710434-S",
+      "address": "Beuthstr. 6\n10117 Berlin"
+    },
+    {
+      "company": "IT-PARTNER Martin U Haneke GmbH",
+      "title": " IT-Techniker / Fachinformatiker FR Systemintegration (m/w/d) ",
+      "ref": "bewerber@it-partner.de",
+      "url": "10000-1187382473-S",
+      "address": "Naugarder Str. 6\n10409 Berlin"
+    },
+    {
+      "company": "GfM GmbH & Co.KG Wb",
+      "title": " IT-Mitarbeiter (m/w/d) ",
+      "ref": "berlin.recruiting@gfm.de",
+      "url": "10000-1187849696-S",
+      "address": "Dessauer Str. 13\n06886 Lutherstadt Wittenberg"
+    },
+    {
+      "company": "Hexad GmbH - Wolfsburg",
+      "title": " Softwareentwickler (m/w/d) ",
+      "ref": "career@hexad.de",
+      "url": "10000-1188961145-S",
+      "address": "Porschestr. 58\n38440 Wolfsburg - Innenstadt"
+    },
+    {
+      "company": "MedTec Healthcare Recruitment",
+      "title": " Software-Entwickler (m/w/d) Medizintechnik/Berlin, KC1322 ",
+      "ref": "raus@medtec-hr.de",
+      "url": "10000-1188601645-S",
+      "address": "Friedrichsplatz 8\n68165 Mannheim"
+    },
+    {
+      "company": "okidu GmbH",
+      "title": " PHP-Programmierer / Web-Entwickler (m/w/d) ",
+      "ref": "bewerbung@okidu.de",
+      "url": "10000-1182559058-S",
+      "address": "Am B\u00fcrohochhaus 2 - 4\n14478 Potsdam"
+    },
+    {
+      "company": "GECO Deutschland GmbH",
+      "title": " Fachinformatiker f\u00fcr Systemintegration (m/w/d) in Berlin / ZSZI55483 ",
+      "ref": "saifeddine.zitouni@geco-group.com",
+      "url": "10000-1188927626-S",
+      "address": "Schellerdamm 16\n21079 Hamburg"
+    },
+    {
+      "company": "Time2 Business Consulting GmbH",
+      "title": " IT-SYSTEM -ADMINISTRATOR (M/W/D) - NR. 505 ",
+      "ref": "karriere@time2.de",
+      "url": "10000-1188493188-S",
+      "address": "Dudenstr. 10\n10965 Berlin - Kreuzberg"
+    },
+    {
+      "company": "Ingenieurb\u00fcro Heimann",
+      "title": " Rollout Manager (m/w/d) ",
+      "ref": "jobs@heimann-online.com",
+      "url": "10000-1188921673-S",
+      "address": "BG9\nGraf-von-Soden-Stra\u00dfe\n88090 Immenstaad am Bodensee"
+    },
+    {
+      "company": "XU Group GmbH",
+      "title": " IT-Systemadministrator (Cloud) (m/w/d) ",
+      "ref": "career@be-xu.com",
+      "url": "10000-1186666307-S",
+      "address": "Mehringdamm 33\n10961 Berlin"
+    },
+    {
+      "company": "puro Personaldienstleistung GmbH",
+      "title": " Mitarbeiter IT Vertrieb (m/w/d) ",
+      "ref": "obs@puro-personal.de",
+      "url": "10000-1188904313-S",
+      "address": "Dultstr. 1\n80331 M\u00fcnchen"
+    },
+    {
+      "company": "ALDB GmbH",
+      "title": " IT-Testdesigner/Anforderungsmanager (Qualit\u00e4tssicherung) (m/w/d) ",
+      "ref": "bewerbung@aldb.org",
+      "url": "10000-1188907662-S",
+      "address": "Fehrbelliner Platz 3\n10707 Berlin - Wilmersdorf"
+    },
+    {
+      "company": "Heymanns IT-Solutions GmbH",
+      "title": " Fachinformatiker/-in Systemintegration (m/w/d) ",
+      "ref": "bewerbung@heymanns.de",
+      "url": "10000-1187686200-S",
+      "address": "Bahnstr. 49\n47877 Willich"
+    },
+    {
+      "company": "Umbrella Unternehmensberatung GmbH",
+      "title": " Junior IT Security Consultant (m/w/d) ",
+      "ref": "recruiting@umbrellaconsulting.de",
+      "url": "10000-1188895835-S",
+      "address": "Wittelsbacherstra\u00dfe 18\n10707 Berlin"
+    },
+    {
+      "company": "ethinking GmbH",
+      "title": " Frontend Developer mit Herz (m/w/x) ",
+      "ref": "jobs@ethinking.de",
+      "url": "10000-1186580306-S",
+      "address": "Rosenstr. 19\n10178 Berlin"
+    },
+    {
+      "company": "Copy Rex B\u00fcromaschinen Vertriebs GmbH",
+      "title": " Werkstattleiter (m/w/d) ",
+      "ref": "vogeley@copyrex.com",
+      "url": "10000-1185310110-S",
+      "address": "Kaiser-Friedrich-Str. 7\n10585 Berlin"
+    },
+    {
+      "company": "Pamec Papp GmbH",
+      "title": " Mitarbeiter (m/w/d) IT Infrastruktur ",
+      "ref": "bewerbung-nuernberg@papp-gruppe.de",
+      "url": "12310-72FWOFJ1JQW12H0Z-S",
+      "address": "Schreiberhauer Str. 5\n90475 N\u00fcrnberg, Mittelfranken"
+    }
+  ]
+}

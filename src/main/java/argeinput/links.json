@@ -1,0 +1,2797 @@
+{
+  "stellenangebote": [
+    {
+      "beruf": "First-Level-Supporter/in",
+      "titel": "Security Analyst (all genders) 1st Level - Security Operations Center,München,Augsburg,Berl...",
+      "refnr": "12811-796108-S",
+      "arbeitsort": {
+        "plz": "60486",
+        "ort": "Frankfurt am Main",
+        "strasse": "Franklinstraße 61-63",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1167545,
+          "lon": 8.6285893
+        }
+      },
+      "arbeitgeber": "CANCOM",
+      "aktuelleVeroeffentlichungsdatum": "2022-05-01",
+      "modifikationsTimestamp": "2022-05-01T07:04:24.118",
+      "eintrittsdatum": "2022-05-01",
+      "hashId": "PjCduZiAZIkahgCmwcEegb6QsgnxfrZI8ciLDQzes70=",
+      "externeUrl": "https://www.finest-jobs.com/Stellenanzeige/Security-Analyst-All-Genders-1st-Level-Security-Op-635393?cp=BA"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Specialist Linux Operations (all genders),München,Augsburg,Berl...",
+      "refnr": "12811-796103-S",
+      "arbeitsort": {
+        "plz": "86167",
+        "ort": "Augsburg, Bayern",
+        "strasse": "Am Mittleren Moos 53",
+        "region": "Bayern",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 48.4003474,
+          "lon": 10.9317382
+        }
+      },
+      "arbeitgeber": "CANCOM",
+      "aktuelleVeroeffentlichungsdatum": "2022-05-01",
+      "modifikationsTimestamp": "2022-05-01T07:04:23.094",
+      "eintrittsdatum": "2022-05-01",
+      "hashId": "AkF74TcfWSpgzmJWr8bpnobAyFvL9j2RIrzbd738_zs=",
+      "externeUrl": "https://www.finest-jobs.com/Stellenanzeige/Specialist-Linux-Operations-All-Genders-659045?cp=BA"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "(Senior-) Consultant Test Management",
+      "refnr": "10000-1188446611-S",
+      "arbeitsort": {
+        "plz": "60329",
+        "ort": "Frankfurt am Main",
+        "strasse": "Taunusanlage 8",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1117765,
+          "lon": 8.6691814
+        }
+      },
+      "arbeitgeber": "Magnus Consulting Christian Magnus",
+      "aktuelleVeroeffentlichungsdatum": "2022-05-01",
+      "modifikationsTimestamp": "2022-05-01T13:45:09.001",
+      "eintrittsdatum": "2022-05-01",
+      "hashId": "dZA8u0r92GCg7jXF2ejdFFfCDU2jqyNgNMMLQF6l3RA="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "(Junior-) Consultant Software-Test & Test Management",
+      "refnr": "10000-1188446560-S",
+      "arbeitsort": {
+        "plz": "60329",
+        "ort": "Frankfurt am Main",
+        "strasse": "Taunusanlage 8",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1117765,
+          "lon": 8.6691814
+        }
+      },
+      "arbeitgeber": "Magnus Consulting Christian Magnus",
+      "aktuelleVeroeffentlichungsdatum": "2022-05-01",
+      "modifikationsTimestamp": "2022-05-01T13:46:08.056",
+      "eintrittsdatum": "2022-05-01",
+      "hashId": "x0wLqpBysVehvnpIPorRpz8vFWiOhMFgmNLuF0xrMa4="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "(Senior-) Consultant Java Development",
+      "refnr": "10000-1188446492-S",
+      "arbeitsort": {
+        "plz": "60329",
+        "ort": "Frankfurt am Main",
+        "strasse": "Taunusanlage 8",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1117765,
+          "lon": 8.6691814
+        }
+      },
+      "arbeitgeber": "Magnus Consulting Christian Magnus",
+      "aktuelleVeroeffentlichungsdatum": "2022-05-01",
+      "modifikationsTimestamp": "2022-05-01T13:46:55.139",
+      "eintrittsdatum": "2022-05-01",
+      "hashId": "OhiusEGiKrLcHDsiQucAsNZjy38jlsFx46P3BhPLJxk="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "(Junior-) Consultant Java Development",
+      "refnr": "10000-1188446446-S",
+      "arbeitsort": {
+        "plz": "60329",
+        "ort": "Frankfurt am Main",
+        "strasse": "Taunusanlage 8",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1117765,
+          "lon": 8.6691814
+        }
+      },
+      "arbeitgeber": "Magnus Consulting Christian Magnus",
+      "aktuelleVeroeffentlichungsdatum": "2022-05-01",
+      "modifikationsTimestamp": "2022-05-01T13:47:38.005",
+      "eintrittsdatum": "2022-05-01",
+      "hashId": "Dm9l0m4YNZNO-Sjz7oCIxR0XojCR78b1maKHQWx1xLo="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "IT Service Manager*in (m/w/d)",
+      "refnr": "10000-1183553803-S",
+      "arbeitsort": {
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4926832,
+          "lon": 13.4025753
+        }
+      },
+      "arbeitgeber": "Vensilio e. K. Stefan Angerer",
+      "aktuelleVeroeffentlichungsdatum": "2022-05-01",
+      "modifikationsTimestamp": "2022-05-01T14:11:21.841",
+      "eintrittsdatum": "2022-10-15",
+      "hashId": "IwfXsL_-9wF5Gjx3iG6APonp-1KBK8AVfjyNTZRn4Kc="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Informatiker, Ingenieur - Entwicklung .NET, JavaScript",
+      "refnr": "14225-174212_9ebb269-S",
+      "arbeitsort": {
+        "plz": "10623",
+        "ort": "Berlin",
+        "strasse": "Steinplatz 1",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5091748,
+          "lon": 13.325273
+        }
+      },
+      "arbeitgeber": "VDI/VDE Innovation + Technik GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-30",
+      "modifikationsTimestamp": "2022-04-30T07:38:06.752",
+      "eintrittsdatum": "2022-04-30",
+      "hashId": "qL048RzVQqjTIFO-fw_F8fkFqD-iwvVTRdg8r6OBL1c=",
+      "externeUrl": "https://www.jobvector.de/jobs-stellenangebote/informatik/software-engineering-programmierung/net-entwickler-javascript-d-174212/?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid174212&utm_content=b2c&utm_term=tmf8eca_uic9ebb269"
+    },
+    {
+      "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "titel": "Wirtschaftswissenschaftler, Kaufmann - Business Intelligence",
+      "refnr": "14225-174205_86592b4-S",
+      "arbeitsort": {
+        "plz": "12247",
+        "ort": "Berlin",
+        "strasse": "Teltowkanalstraße 1b",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4433962,
+          "lon": 13.3301199
+        }
+      },
+      "arbeitgeber": "Medicover GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-30",
+      "modifikationsTimestamp": "2022-04-30T07:38:07.337",
+      "eintrittsdatum": "2022-04-30",
+      "hashId": "t9BASvvA6rDnFzZzd9d1iGAETx4bgSq4Oa8OxT8Di-c=",
+      "externeUrl": "https://www.jobvector.de/jobs-stellenangebote/x-174205.html?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid174205&utm_content=b2c&utm_term=tmf8eca_uic86592b4"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Informatiker - Bildanalyse, Datenvisualisierung (m/w/d)",
+      "refnr": "14225-174115_a8388f5-S",
+      "arbeitsort": {
+        "plz": "14195",
+        "ort": "Berlin",
+        "strasse": "Takustr. 7",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4555082,
+          "lon": 13.2975971
+        }
+      },
+      "arbeitgeber": "Zuse Institute Berlin",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-30",
+      "modifikationsTimestamp": "2022-04-30T07:38:14.155",
+      "eintrittsdatum": "2022-04-30",
+      "hashId": "lNu3v9H8_fPLhk2B2-T4g2SFW0bty94qvUQjZMF8VT4=",
+      "externeUrl": "https://www.jobvector.de/jobs-stellenangebote/x-174115.html?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid174115&utm_content=b2c&utm_term=tmf8eca_uica8388f5"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Informatiker - Projektmanagement, Prozessmanagement (m/w/d)",
+      "refnr": "14225-174091_c804aa5-S",
+      "arbeitsort": {
+        "plz": "10709",
+        "ort": "Berlin",
+        "strasse": "Ruhrstraße 2",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4903688,
+          "lon": 13.3112495
+        }
+      },
+      "arbeitgeber": "Deutsche Rentenversicherung Bund (DRV Bund)",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-30",
+      "modifikationsTimestamp": "2022-04-30T07:38:15.965",
+      "eintrittsdatum": "2022-04-30",
+      "hashId": "OcgnxApqwY3KwjzKXarFnIVnPk8cz1P6CeiQO8qExh8=",
+      "externeUrl": "https://www.jobvector.de/jobs-stellenangebote/informatik/projektmanagement/informatiker-div-it-services-174091/?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid174091&utm_content=b2c&utm_term=tmf8eca_uicc804aa5"
+    },
+    {
+      "beruf": "Ingenieurinformatiker/in",
+      "titel": "SCRUM Master (m/w/d) im System Test",
+      "refnr": "13032-R55SWVECOSHW12ZS-S",
+      "arbeitsort": {
+        "plz": "10117",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5172721,
+          "lon": 13.3882903
+        }
+      },
+      "arbeitgeber": "Argo Aviation Defense GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-30",
+      "modifikationsTimestamp": "2022-04-30T09:32:45.456",
+      "eintrittsdatum": "2022-04-30",
+      "logoHashId": "RZ0wQUsTitlrjTSnHSKZi8uvCZIo_uyEyGxv8Zle0vs=",
+      "hashId": "2lSR2Q-kNBLttCAnIhoa3wwyOVwu7QAzgJ90mB7Z_ko="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Fachinformatiker für Finanzinstitut gesucht (m/w/d)",
+      "refnr": "12101-886123225-5-S",
+      "arbeitsort": {
+        "plz": "10787",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5055083,
+          "lon": 13.3447582
+        }
+      },
+      "arbeitgeber": "Workstation AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-30",
+      "modifikationsTimestamp": "2022-04-29T07:08:47.456",
+      "eintrittsdatum": "2022-05-15",
+      "logoHashId": "Oc20C4LuDH9uctgTXgsZ49HwEEDGoFFUlAj4O0-9CpU=",
+      "hashId": "Rx7vun88IaLcM6WSiB-yJRXmw2uL0zqgBBPBDjZJqrI="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Fachinformatiker (m/w/d)",
+      "refnr": "15165-521934220415020109-S",
+      "arbeitsort": {
+        "ort": "Frankfurt am Main",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1270961,
+          "lon": 8.6453286
+        }
+      },
+      "arbeitgeber": "UNISTAFF GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:33:33.712",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "fZnfpAXOzc3nwnSjzAjo8WxnrG1clg5LTr1pYPLn1zs="
+    },
+    {
+      "beruf": "EDV-Fachkraft",
+      "titel": "EDV-Mitarbeiter (m/w/d)",
+      "refnr": "15165-521926220415020109-S",
+      "arbeitsort": {
+        "ort": "Frankfurt am Main",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1270961,
+          "lon": 8.6453286
+        }
+      },
+      "arbeitgeber": "UNISTAFF GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:33:33.491",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "phPvP4M8qSm5iSHEu4voU2c5b0sL3xW8flYSGX0cP_Q="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Informatiker, Wirtschaftsingenieur - IT-Architektur (m/w/d)",
+      "refnr": "14225-174061_40aeb21-S",
+      "arbeitsort": {
+        "plz": "10557",
+        "ort": "Berlin",
+        "strasse": "Heidestraße 15",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5355415,
+          "lon": 13.3654431
+        }
+      },
+      "arbeitgeber": "Die Autobahn GmbH des Bundes",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:56:50.85",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "gMpw6DhD6nwAOj6SWsuSz6B8VBDKUCX5W20v-3wDv5g=",
+      "externeUrl": "https://www.jobvector.de/jobs-stellenangebote/x-174061.html?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid174061&utm_content=b2c&utm_term=tmf8eca_uic40aeb21"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Informatiker, Data Scientist - Webanalyst, E-Commerce",
+      "refnr": "14225-174008_459f351-S",
+      "arbeitsort": {
+        "plz": "10115",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.531976,
+          "lon": 13.3867379
+        }
+      },
+      "arbeitgeber": "Waschbär GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:56:55.166",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "SG6PSi94XLXqg7FOSXNjvsJ6kO-JoyeflaPXR7653Gc=",
+      "externeUrl": "https://www.jobvector.de/jobs-stellenangebote/informatik/business-intelligence-data-warehouse/webanalyst-174008/?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid174008&utm_content=b2c&utm_term=tmf8eca_uic459f351"
+    },
+    {
+      "beruf": "IT-Systemadministrator/in",
+      "titel": "Systemadministrator Linux (m/w/d)",
+      "refnr": "13319-616045/1_336701LS-S",
+      "arbeitsort": {
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4926832,
+          "lon": 13.4025753
+        }
+      },
+      "arbeitgeber": "Hays Professional Solutions GmbH Standort Berlin",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:36:45.235",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "8q0oOuNaR-cYErTdkCZoCOnOk4vDNKepc7r12fVjvPw=",
+      "hashId": "SMAQutdThTa19GLvXP7y3PuUznvCV38ZfbIjngbtkIQ="
+    },
+    {
+      "beruf": "EDV-Fachkraft",
+      "titel": "Fachkraft im Bereich Büro (m/w/d)",
+      "refnr": "13114-521855220429020021-S",
+      "arbeitsort": {
+        "ort": "Münster, Westfalen",
+        "region": "Nordrhein-Westfalen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 51.951311,
+          "lon": 7.6234927
+        }
+      },
+      "arbeitgeber": "DG timework GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:31:17.578",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "TLoEv6HM5NO_BxQLqI0nRu14qTnhrW_8jS0Rm8LwMh0=",
+      "hashId": "UmdG8BY1hKC4sJMDczqqXaqtu5MHzIeG0658ffjwsbc="
+    },
+    {
+      "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "titel": "Wirtschaftsinformatiker in der Technischen Administration u…",
+      "refnr": "12952-2022_572215-S",
+      "arbeitsort": {
+        "plz": "10117",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5172721,
+          "lon": 13.3882903
+        }
+      },
+      "arbeitgeber": "ARTS Holding SE",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:17:45.804",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "J2LRqcIpCXfF0LVD4nG8W3VqfwwYSloplYjhNjLPXFc=",
+      "externeUrl": "https://www.jopago.com/job-external/572215"
+    },
+    {
+      "beruf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "titel": "Software-Entwickler*in (m/w/d)",
+      "refnr": "12513-0007392337-S",
+      "arbeitsort": {
+        "plz": "20357",
+        "ort": "Hamburg",
+        "region": "Hamburg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 53.5640316,
+          "lon": 9.9673389
+        }
+      },
+      "arbeitgeber": "WhereGroup GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T09:04:29.944",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "DB3eHrZCXllyl0rwGvvMfky9wGYmicO5czkTHtMCF8U=",
+      "externeUrl": "https://www.jobboerse-direkt.de/stellenangebote/Software-Entwickler%2Ain-m-w-d-7392337"
+    },
+    {
+      "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "titel": "Referent Sonderprojekte im Controlling (w/m/d)",
+      "refnr": "12456-790131-1-S",
+      "arbeitsort": {
+        "plz": "10789",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5015864,
+          "lon": 13.3374445
+        }
+      },
+      "arbeitgeber": "Deutsche Bahn AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:56:54.659",
+      "eintrittsdatum": "2022-04-30",
+      "logoHashId": "cnHaRAbunmlWzn7CGGibkJ-AJMgtVIkS4Fjt6wmbgsw=",
+      "hashId": "2yc9Dzx0BS9PFEOo2Nxl5dSU9SuEJNv7FNTscY8G8Hk="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Chief Information Security Officer (w/m/d)",
+      "refnr": "12336-a22f473j0246332-S",
+      "arbeitsort": {
+        "plz": "10178",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5210906,
+          "lon": 13.4099785
+        }
+      },
+      "arbeitgeber": "Deutsche Bahn AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:14:27.065",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "M86I809h0LbLHLd1dZiHFBZzXoY1qpdrPNGf947s02s=",
+      "externeUrl": "https://jobs.jobspreader.com/viewjob-p5v5t?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=it&utm_term=chief-information-security-officer-w-m-d"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Systems Engineer Digitale Schiene Deutschland (w/m/d)",
+      "refnr": "12336-a22f473j0209246-S",
+      "arbeitsort": {
+        "plz": "10178",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5210906,
+          "lon": 13.4099785
+        }
+      },
+      "arbeitgeber": "Deutsche Bahn AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:14:09.559",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "tF8KJxUSVmNTAUBMrIdzVn0aYQJn9yDrVx9qJDqcir8=",
+      "externeUrl": "https://jobs.jobspreader.com/viewjob-vnpee?utm_source=jsba-premium&utm_medium=n-a&utm_campaign=technik&utm_term=systems-engineer-digitale-schiene-deutschland-w-m-d"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Angular Entwickler (m/w/d)",
+      "refnr": "12265-289212_JB2753840-S",
+      "arbeitsort": {
+        "plz": "10115",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.531976,
+          "lon": 13.3867379
+        }
+      },
+      "arbeitgeber": "FERCHAU GmbH Niederlassung Berlin City",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:56:59.856",
+      "eintrittsdatum": "2022-05-03",
+      "logoHashId": "KCZ-QbwIq38kkNbIQjD5rKkuo1RMzWsxG0tfkNzOcXg=",
+      "hashId": "_bmF7K0Hl3upigEfNTLF-Zx-hBa6acvYBZDnXnX-ru4="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "User Help Desk EUR 40k (m/w/d)",
+      "refnr": "12101-886123250-3-S",
+      "arbeitsort": {
+        "plz": "10787",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5055083,
+          "lon": 13.3447582
+        }
+      },
+      "arbeitgeber": "Workstation AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:08:50.501",
+      "eintrittsdatum": "2022-06-01",
+      "logoHashId": "Oc20C4LuDH9uctgTXgsZ49HwEEDGoFFUlAj4O0-9CpU=",
+      "hashId": "zgvF1RcvqEA02lFriJDRMIfroYGCEAe_0PCC3aO0SaU="
+    },
+    {
+      "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "titel": "Data Analyst / IT-Entwickler Datenbanken (w/m/d)",
+      "refnr": "11858-453468300-sd-S",
+      "arbeitsort": {
+        "plz": "10115",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.531976,
+          "lon": 13.3867379
+        }
+      },
+      "arbeitgeber": "Deutsche Bahn AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:42:00.268",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "BQBlpRj7M56HgikYJ3D855jDLyJ92O_TQuRvFU3_Aus=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4534683/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=59X&campaign=ba"
+    },
+    {
+      "beruf": "IT-Administrator/in",
+      "titel": "Administrator / IT Speziaist / Informatiker als (m/w/d)",
+      "refnr": "11858-452993000-sd-S",
+      "arbeitsort": {
+        "plz": "10115",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.531976,
+          "lon": 13.3867379
+        }
+      },
+      "arbeitgeber": "AWO Bundesverband e. V.",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:41:24.5",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "AY_F-IPZ0eJwn3atURLDaCXXTFLToY4ffW8AVII8ZhM=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4529930/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=IT&subkategorie=57X&campaign=ba"
+    },
+    {
+      "beruf": "Anwendungssystemberater/in",
+      "titel": "Specialist (m/w/d) Microsoft Office 365",
+      "refnr": "11858-446265100-sd-S",
+      "arbeitsort": {
+        "plz": "33602",
+        "ort": "Bielefeld",
+        "region": "Nordrhein-Westfalen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.0188615,
+          "lon": 8.5328258
+        }
+      },
+      "arbeitgeber": "Goldbeck GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:59.266",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "6Ued5-_G1WY7oL0AT-6uuTregE88N7y7yr8FhKebyMk=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4462651/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=60X&campaign=ba"
+    },
+    {
+      "beruf": "Datenbankentwickler/in",
+      "titel": "Datenbankentwickler (m/w/d)",
+      "refnr": "11858-435107800-sd-S",
+      "arbeitsort": {
+        "plz": "91052",
+        "ort": "Erlangen",
+        "region": "Bayern",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.58798,
+          "lon": 11.0121863
+        }
+      },
+      "arbeitgeber": "Materna Information & Communications SE",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:36.874",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "tUxr81CZALzL_KUgJbAJqYNUWdXh_BQsoTs_F8YpJOE=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4351078/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=59X&campaign=ba"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Spezialist IBM Planning Analytics für Beratung, (m/w/d)",
+      "refnr": "11858-432136800-sd-S",
+      "arbeitsort": {
+        "plz": "99084",
+        "ort": "Erfurt",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9758435,
+          "lon": 11.0264913
+        }
+      },
+      "arbeitgeber": "Deutsche Bahn AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:35.397",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "THDGYJ5gKUXsiUqO8NqT1QAVHCoHeW1e6YRZV9o87RQ=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4321368/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=70X&campaign=ba"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Cloud Spezialist MS Azure (w/m/d)",
+      "refnr": "11858-431932100-sd-S",
+      "arbeitsort": {
+        "plz": "60437",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1928185,
+          "lon": 8.6768015
+        }
+      },
+      "arbeitgeber": "Deutsche Bahn AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:32.342",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "Nc7DcEDGa6zYQoxaUt9iPo5Q91ne7yONhVMJ5FIuTmw=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4319321/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=64X&campaign=ba"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "AI Development Manager (m/w/d)",
+      "refnr": "11858-431860400-sd-S",
+      "arbeitsort": {
+        "plz": "60437",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1928185,
+          "lon": 8.6768015
+        }
+      },
+      "arbeitgeber": "Deutsche Bahn AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:31.512",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "8pwrJDei8JDMgnM44EMPIByvihQVNg1jeT39SfNLKpg=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4318604/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=281X&campaign=ba"
+    },
+    {
+      "beruf": "Qualitätsmanager/in",
+      "titel": "Senior Testmanager (m/w/d)",
+      "refnr": "11858-420078400-sd-S",
+      "arbeitsort": {
+        "plz": "80331",
+        "ort": "München",
+        "region": "Bayern",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 48.1356305,
+          "lon": 11.5739913
+        }
+      },
+      "arbeitgeber": "Materna Information & Communications SE",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:24.529",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "tMCWIwcY9oZ8JlMAjIP58Kd2hxyEjHvF8sitCGIs2nA=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4200784/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=60X&campaign=ba"
+    },
+    {
+      "beruf": "IT-Manager/in",
+      "titel": "Manager / Teamleiter IT Consulting Public Sector (m/w/d)",
+      "refnr": "11858-414083500-sd-S",
+      "arbeitsort": {
+        "plz": "10115",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.531976,
+          "lon": 13.3867379
+        }
+      },
+      "arbeitgeber": "Materna Information & Communications SE",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:23.39",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "4RBQ7U8tIwOjB04bKToC1BPMQkl4Ow4t0dZBwgyJ5yc=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/4140835/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=66X&campaign=ba"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "System Engineer SOA (m/w/d)",
+      "refnr": "11858-385172200-sd-S",
+      "arbeitsort": {
+        "plz": "10115",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.531976,
+          "lon": 13.3867379
+        }
+      },
+      "arbeitgeber": "Materna Information & Communications SE",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:19.548",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "eZ1hewg6yJGmSVTbHvAJ9kcAJGEMXkEeASqdPzMMcbI=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/3851722/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=60X&campaign=ba"
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Kubernetes Engineer (m/w/d)",
+      "refnr": "11858-376131700-sd-S",
+      "arbeitsort": {
+        "plz": "20095",
+        "ort": "Hamburg",
+        "region": "Hamburg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 53.5504722,
+          "lon": 10.0000334
+        }
+      },
+      "arbeitgeber": "Materna Information & Communications SE",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:39:18.146",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "gxynZockUsjZerSzYVx--rcC3JdaEg4M0M5TFgPtPR8=",
+      "externeUrl": "https://www.stellenanzeigen.de/job/3761317/?utm_id=ba&utm_source=bundesagentur&utm_medium=unpaid-partner&utm_campaign=Free&subkategorie=58X&campaign=ba"
+    },
+    {
+      "beruf": "Softwareentwickler/in",
+      "titel": "Software Build & Release Engineer (m/w/d)",
+      "refnr": "10000-1189029747-S",
+      "arbeitsort": {
+        "plz": "12099",
+        "ort": "Berlin",
+        "ortsteil": "Tempelhof",
+        "strasse": "Colditzstr. 34/36",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4575744,
+          "lon": 13.3938286
+        }
+      },
+      "arbeitgeber": "Bally Wulff Games & Entertainment GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T16:20:14.694",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "lcKQIpYcIYkOj2w1_kS4Ha-eAIS5erKuS-7Phorbthc=",
+      "hashId": "BIAd8X_o3wX87MpolaauZiWtWW4KpqWKz72dfvdvW-M="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Du studierst Informatik und suchst spannende Aufgaben im Bereich digital-gestütztes Lernen & Lehren?",
+      "refnr": "10000-1189028206-S",
+      "arbeitsort": {
+        "plz": "10587",
+        "ort": "Berlin",
+        "strasse": "Salzufer 22",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5196063,
+          "lon": 13.3201415
+        }
+      },
+      "arbeitgeber": "IBI - Institut für Bildung in der Informationsgesellschaft gGmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:40:17.26",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "Ay0YisQF3_mGvUtCWiekE3qKnEbJG6ZsG8TZwRjI7Dc="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Für unser Team suchen wir IT-Allrounder (w/m/d)",
+      "refnr": "10000-1189027972-S",
+      "arbeitsort": {
+        "plz": "10587",
+        "ort": "Berlin",
+        "strasse": "Salzufer 22",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5196063,
+          "lon": 13.3201415
+        }
+      },
+      "arbeitgeber": "IBI - Institut für Bildung in der Informationsgesellschaft gGmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T14:41:40.146",
+      "eintrittsdatum": "2022-06-01",
+      "hashId": "MBKs9mkSKF1btA9B1MvNHxCk20SYuU7e03JnWCYvtlY="
+    },
+    {
+      "beruf": "Netzwerkadministrator/in",
+      "titel": "Junior Netzwerkadministrator (m/w/d)",
+      "refnr": "10000-1189027391-S",
+      "arbeitsort": {
+        "ort": "Hamburg",
+        "region": "Hamburg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 53.5460482,
+          "lon": 10.0393138
+        }
+      },
+      "arbeitgeber": "ANG.-Punkt und gut! GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T13:52:23.874",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "KEVovtJWs-cSKRYl6jnuRjcjJm7J9t11WjKrrDRRxGU=",
+      "hashId": "LRbWbp3DZY6zb7WVpH4hFMJJqWDiQa2VmmtCEl9-gds="
+    },
+    {
+      "beruf": "IT-Administrator/in",
+      "titel": "IT-Administrator Linux (m/w/d)",
+      "refnr": "10000-1189027284-S",
+      "arbeitsort": {
+        "ort": "Hamburg",
+        "region": "Hamburg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 53.5460482,
+          "lon": 10.0393138
+        }
+      },
+      "arbeitgeber": "ANG.-Punkt und gut! GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T13:45:34.765",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "KEVovtJWs-cSKRYl6jnuRjcjJm7J9t11WjKrrDRRxGU=",
+      "hashId": "VywmLHSYBCOiVXK25yawle-Deeb8hTggnYg7KTLbUDg="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Softwareverteiler (m/w/d)",
+      "refnr": "10000-1189025962-S",
+      "arbeitsort": {
+        "plz": "63263",
+        "ort": "Neu-Isenburg",
+        "strasse": "Dornhofstraße 34",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.0451753,
+          "lon": 8.6807821
+        }
+      },
+      "arbeitgeber": "ncsolution NCS GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T13:13:43.451",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "JtEjd56KFk3nDt-7TAzf1DVTa-LmwHokS97h64noH4k=",
+      "hashId": "79VXOk2Lzk28fVidCgtEsend-FX7gPIxq0jtqp5f6kI="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Netzwerkadministrator/ Cisco (m/w/d)",
+      "refnr": "10000-1189025125-S",
+      "arbeitsort": {
+        "plz": "63263",
+        "ort": "Neu-Isenburg",
+        "strasse": "Dornhofstraße 34",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.0451753,
+          "lon": 8.6807821
+        }
+      },
+      "arbeitgeber": "ncsolution NCS GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T12:30:34.802",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "JtEjd56KFk3nDt-7TAzf1DVTa-LmwHokS97h64noH4k=",
+      "hashId": "b-6BJWVtJWB26PSa5wvtukYh6ChfCwtxEpC0ahlsYD8="
+    },
+    {
+      "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "titel": "BUSINESS ANALYST / IT-PROJEKTLEITER (W/M/D)",
+      "refnr": "10000-1189022453-S",
+      "arbeitsort": {
+        "plz": "80339",
+        "ort": "München",
+        "strasse": "Ganghoferstr. 33",
+        "region": "Bayern",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 48.1317429,
+          "lon": 11.54001
+        }
+      },
+      "arbeitgeber": "ADVANT Beiten",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T11:29:20.214",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "XSbkAmFnz1nFoIVeP1GfIPoRIidlIqtfBy9lda04KCQ=",
+      "hashId": "9ap1MxPsHod0lsMLINLlivEkJNdbGJsl08dI4_pEFSI="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "AS-2022-058: Anwendungsentwickler/Anwendungsentwicklerinnen (m/w/d)",
+      "refnr": "10000-1189022038-S",
+      "arbeitsort": {
+        "plz": "10115",
+        "ort": "Berlin",
+        "strasse": "Chausseestraße 96",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5357285,
+          "lon": 13.376257
+        }
+      },
+      "arbeitgeber": "Bundesverwaltungsamt Außenstelle Bonn A0ST 251",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T11:40:05.986",
+      "eintrittsdatum": "2022-05-11",
+      "hashId": "EQGnHRgmQKBJ1iEpuGUMiUM5Qv0RN0_UN62BQGpNc84="
+    },
+    {
+      "beruf": "Onlinemarketing-Manager/in",
+      "titel": "Manager Marketing Technology (m/w/d) – AdTech",
+      "refnr": "10000-1189021837-S",
+      "arbeitsort": {
+        "plz": "10783",
+        "ort": "Berlin",
+        "strasse": "Potsdamer Str. 192",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4910923,
+          "lon": 13.3603555
+        }
+      },
+      "arbeitgeber": "myToys.de GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T11:14:54.958",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "HzC7clhLyU-A4wjf7uWs2FjV1a4sfhnHwdZkm2QbmKc=",
+      "hashId": "om4O-NiES9aQBQyFp-RWiVktWt2xyda8de8TUKdMV6o="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Junior Administratoren Cloud (m/w/d)",
+      "refnr": "10000-1189021083-S",
+      "arbeitsort": {
+        "plz": "63263",
+        "ort": "Neu-Isenburg",
+        "strasse": "Dornhofstraße 34",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.0451753,
+          "lon": 8.6807821
+        }
+      },
+      "arbeitgeber": "ncsolution NCS GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:58:36.629",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "JtEjd56KFk3nDt-7TAzf1DVTa-LmwHokS97h64noH4k=",
+      "hashId": "FomCH-CW5SSlUFMkT2PSQ3A-MRDfMwsj-1V6tdFkqw4="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Softwareverteiler (m/w/d)",
+      "refnr": "10000-1189020892-S",
+      "arbeitsort": {
+        "plz": "60486",
+        "ort": "Frankfurt am Main",
+        "ortsteil": "Bockenheim",
+        "strasse": "Theodor-Heuss-Allee 112",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1161986,
+          "lon": 8.6298236
+        }
+      },
+      "arbeitgeber": "NConsult IT-Systemhaus GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:55:44.96",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "R8L0Btex9v5Vr9Es4zvoK7-3aH90TxBM1B8GhqFGIRs=",
+      "hashId": "FVYIG8Q-exZg3cvO5OmJbDz5wlKAMN-cKFM_vYBe2Ns="
+    },
+    {
+      "beruf": "IT-Testkoordinator/in",
+      "titel": "Testmanager (m/w/d)",
+      "refnr": "10000-1189020294-S",
+      "arbeitsort": {
+        "ort": "Ulm, Donau",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 48.3906476,
+          "lon": 9.9558042
+        }
+      },
+      "arbeitgeber": "NORDkind Recruiting GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:43:23.794",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "qAUEW9_5epJzz0wlTCc2kf4SJGSHhPvTNCU_AtD46e8="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Anwendungsentwicklung",
+      "titel": "System Engineer Datacenter Operation - Windows / Infrastruktur / Backup (m/w/d)",
+      "refnr": "10000-1189020268-S",
+      "arbeitsort": {
+        "plz": "10785",
+        "ort": "Berlin",
+        "strasse": "Klingelhöferstr. 23",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5082105,
+          "lon": 13.3521711
+        }
+      },
+      "arbeitgeber": "Konrad-Adenauer-Stiftung e.V.",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:44:25.54",
+      "eintrittsdatum": "2022-05-15",
+      "hashId": "Lqi82ZOVdQELBrpNn7WElIvMngiRihuxtsaUmPn50C4="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "IT-Administrator im Bereich Linux (m/w/d)",
+      "refnr": "10000-1189019455-S",
+      "arbeitsort": {
+        "plz": "63263",
+        "ort": "Neu-Isenburg",
+        "strasse": "Dornhofstraße 34",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.0451753,
+          "lon": 8.6807821
+        }
+      },
+      "arbeitgeber": "ncsolution NCS GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:31:02.107",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "JtEjd56KFk3nDt-7TAzf1DVTa-LmwHokS97h64noH4k=",
+      "hashId": "MfiZYAWnsUdW54C6i4Qtk210DH7RMDkXvVMifnhTFyo="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "(Fach-)Informatiker/ IT-Experten (w/m/d)",
+      "refnr": "10000-1189019385-S",
+      "arbeitsort": {
+        "plz": "10117",
+        "ort": "Berlin",
+        "strasse": "Schumannstr. 9",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5241778,
+          "lon": 13.3831141
+        }
+      },
+      "arbeitgeber": "Deutsche Stiftung für Allgemeinmedizin und Familienmedizin",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:32:15.781",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "S5L17DFU1OcZT6SLnamWoyqqBhtEVk22ink4VwBpQAE="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Linux Administrator (m/w/d)",
+      "refnr": "10000-1189018631-S",
+      "arbeitsort": {
+        "plz": "60486",
+        "ort": "Frankfurt am Main",
+        "ortsteil": "Bockenheim",
+        "strasse": "Theodor-Heuss-Allee 112",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1161986,
+          "lon": 8.6298236
+        }
+      },
+      "arbeitgeber": "NConsult IT-Systemhaus GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:15:44.601",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "R8L0Btex9v5Vr9Es4zvoK7-3aH90TxBM1B8GhqFGIRs=",
+      "hashId": "AkK8MOklHdgKCLnhFw1ewENk-m8ZdxkBpWBM18qSFMM="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "IT-Administrator Linux (m/w/d)",
+      "refnr": "10000-1189018239-S",
+      "arbeitsort": {
+        "ort": "Frankfurt am Main",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1270961,
+          "lon": 8.6453286
+        }
+      },
+      "arbeitgeber": "NORDkind Recruiting GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:05:52.445",
+      "eintrittsdatum": "2022-04-29",
+      "hashId": "X8xgslbrOSAKi3YulqEnwylZwqG8-6qDfLMgUuW1X9k="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "DevOps Engineer (m/w/d)",
+      "refnr": "10000-1189017930-S",
+      "arbeitsort": {
+        "plz": "63263",
+        "ort": "Neu-Isenburg",
+        "strasse": "Dornhofstraße 34",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.0451753,
+          "lon": 8.6807821
+        }
+      },
+      "arbeitgeber": "ncsolution NCS GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:01:42.438",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "JtEjd56KFk3nDt-7TAzf1DVTa-LmwHokS97h64noH4k=",
+      "hashId": "AKWx1LhW9-Y4vo2MffnZKpcHArwuw0JhszPwAFIfnUg="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "IT-Systems-Engineer (m/w/d)",
+      "refnr": "10000-1189017824-S",
+      "arbeitsort": {
+        "plz": "60486",
+        "ort": "Frankfurt am Main",
+        "ortsteil": "Bockenheim",
+        "strasse": "Theodor-Heuss-Allee 112",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1161986,
+          "lon": 8.6298236
+        }
+      },
+      "arbeitgeber": "NConsult IT-Systemhaus GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T10:09:35.335",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "R8L0Btex9v5Vr9Es4zvoK7-3aH90TxBM1B8GhqFGIRs=",
+      "hashId": "bK_0auP99O4jwodytSkbNYaW-bjAffPrS4aK5pKeA2U="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Fachinformatiker/in - Systemintegration m/w/d",
+      "refnr": "10000-1189017788-S",
+      "arbeitsort": {
+        "plz": "10587",
+        "ort": "Berlin",
+        "strasse": "Salzufer 22",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5196063,
+          "lon": 13.3201415
+        }
+      },
+      "arbeitgeber": "IBI - Institut für Bildung in der Informationsgesellschaft gGmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T12:23:40.589",
+      "eintrittsdatum": "2022-06-01",
+      "hashId": "Ni2i0L0KIhiP3i54oAycraNVnGpE9pWD2cYnbDmixtw="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Datenbankadministrator Oracle, Postgre, MySQL (m/w/d)",
+      "refnr": "10000-1189017345-S",
+      "arbeitsort": {
+        "plz": "63263",
+        "ort": "Neu-Isenburg",
+        "strasse": "Dornhofstraße 34",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.0451753,
+          "lon": 8.6807821
+        }
+      },
+      "arbeitgeber": "ncsolution NCS GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T09:51:36.061",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "JtEjd56KFk3nDt-7TAzf1DVTa-LmwHokS97h64noH4k=",
+      "hashId": "pTs50fYNoBz5jdRGWIcDowLfPkfWE6eIURLMj1V7NWY="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Fachinformatiker Systemintegration (m/w/d)",
+      "refnr": "10000-1189016670-S",
+      "arbeitsort": {
+        "plz": "60486",
+        "ort": "Frankfurt am Main",
+        "ortsteil": "Bockenheim",
+        "strasse": "Theodor-Heuss-Allee 112",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1161986,
+          "lon": 8.6298236
+        }
+      },
+      "arbeitgeber": "NConsult IT-Systemhaus GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T09:40:03.898",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "R8L0Btex9v5Vr9Es4zvoK7-3aH90TxBM1B8GhqFGIRs=",
+      "hashId": "yDbDT9X9VUFxb5Mvave5D7dmlcQsvWX5FrKBWi47pCs="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Senior Java Entwickler (m/w/d)",
+      "refnr": "10000-1189012201-S",
+      "arbeitsort": {
+        "ort": "Jena",
+        "adresszusatz": "7.OG",
+        "strasse": "Goethestr. 1",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9274822,
+          "lon": 11.5830347
+        }
+      },
+      "arbeitgeber": "dotSource GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:21:22.844",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "2Eh7AeOtNCrBHfRq0kXc9T5Ov6Obav9dNQ5aQhfTgfg=",
+      "hashId": "Sqw2F-4vbn2OvNP9TUyKfuXNbdGUPz_K_3dAXAAahIw="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Salesforce Marketing Cloud Developer (m/w/d)",
+      "refnr": "10000-1189012112-S",
+      "arbeitsort": {
+        "ort": "Jena",
+        "adresszusatz": "7.OG",
+        "strasse": "Goethestr. 1",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9274822,
+          "lon": 11.5830347
+        }
+      },
+      "arbeitgeber": "dotSource GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:17:11.693",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "2Eh7AeOtNCrBHfRq0kXc9T5Ov6Obav9dNQ5aQhfTgfg=",
+      "hashId": "RrOQbuD4qrYrNCGfNTdV7BvnvDRFi60he5I7arTfEvc="
+    },
+    {
+      "beruf": "Anwendungsprogrammierer/in",
+      "titel": "Fullstack Developer (m/w/d)",
+      "refnr": "10000-1189012107-S",
+      "arbeitsort": {
+        "ort": "Jena",
+        "adresszusatz": "7.OG",
+        "strasse": "Goethestr. 1",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9274822,
+          "lon": 11.5830347
+        }
+      },
+      "arbeitgeber": "dotSource GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:15:28.352",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "2Eh7AeOtNCrBHfRq0kXc9T5Ov6Obav9dNQ5aQhfTgfg=",
+      "hashId": "EpkaZIgs5qSaHgbYS918oFeOxQn4nWAvTu0tYty5N2Q="
+    },
+    {
+      "beruf": "Softwareentwickler/in",
+      "titel": "Softwareentwickler (m/w/d)",
+      "refnr": "10000-1189011998-S",
+      "arbeitsort": {
+        "ort": "Jena",
+        "adresszusatz": "7.OG",
+        "strasse": "Goethestr. 1",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9274822,
+          "lon": 11.5830347
+        }
+      },
+      "arbeitgeber": "dotSource GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:01:17.537",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "2Eh7AeOtNCrBHfRq0kXc9T5Ov6Obav9dNQ5aQhfTgfg=",
+      "hashId": "07ELqSfo9KdAQO-vpEkYaLHoP1lYiMPMtCjHx_yo7X4="
+    },
+    {
+      "beruf": "Anwendungsprogrammierer/in",
+      "titel": "C/ C++ Entwickler (m/w/d)",
+      "refnr": "10000-1189011995-S",
+      "arbeitsort": {
+        "ort": "Jena",
+        "adresszusatz": "7.OG",
+        "strasse": "Goethestr. 1",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9274822,
+          "lon": 11.5830347
+        }
+      },
+      "arbeitgeber": "dotSource GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T07:00:15.154",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "2Eh7AeOtNCrBHfRq0kXc9T5Ov6Obav9dNQ5aQhfTgfg=",
+      "hashId": "VlW3PEtnQK8zIf6NTCrQrIhUQKj4jPH92uXY7oVWEaQ="
+    },
+    {
+      "beruf": "Anwendungsprogrammierer/in",
+      "titel": "Magento-Entwickler (m/w/d)",
+      "refnr": "10000-1189011936-S",
+      "arbeitsort": {
+        "ort": "Jena",
+        "adresszusatz": "7.OG",
+        "strasse": "Goethestr. 1",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9274822,
+          "lon": 11.5830347
+        }
+      },
+      "arbeitgeber": "dotSource GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T06:53:20.03",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "2Eh7AeOtNCrBHfRq0kXc9T5Ov6Obav9dNQ5aQhfTgfg=",
+      "hashId": "pvfsL_wRKLKworUh7TYFqlwtxe5xqLMzEn8Wz_hp60M="
+    },
+    {
+      "beruf": "Softwareentwickler/in",
+      "titel": "Entwicklungsteam gesucht!",
+      "refnr": "10000-1189011880-S",
+      "arbeitsort": {
+        "ort": "Jena",
+        "adresszusatz": "7.OG",
+        "strasse": "Goethestr. 1",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9274822,
+          "lon": 11.5830347
+        }
+      },
+      "arbeitgeber": "dotSource GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T06:45:28.71",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "2Eh7AeOtNCrBHfRq0kXc9T5Ov6Obav9dNQ5aQhfTgfg=",
+      "hashId": "AeLe1KQ7Jyuo14tjIGxP5f4IbcpgY3QYxWb0CzUknkk="
+    },
+    {
+      "beruf": "Anwendungsprogrammierer/in",
+      "titel": "Senior Intershop Entwickler (m/w/d)",
+      "refnr": "10000-1189011845-S",
+      "arbeitsort": {
+        "ort": "Jena",
+        "adresszusatz": "7.OG",
+        "strasse": "Goethestr. 1",
+        "region": "Thüringen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.9274822,
+          "lon": 11.5830347
+        }
+      },
+      "arbeitgeber": "dotSource GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T06:40:05.538",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "2Eh7AeOtNCrBHfRq0kXc9T5Ov6Obav9dNQ5aQhfTgfg=",
+      "hashId": "1lbNm8CX_LWAbdUUc4MGmWe5-hy-Ls5V_T8LZDobgxY="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "DevOps Engineer (m/w/d)",
+      "refnr": "10000-1188984107-S",
+      "arbeitsort": {
+        "plz": "60486",
+        "ort": "Frankfurt am Main",
+        "ortsteil": "Bockenheim",
+        "strasse": "Theodor-Heuss-Allee 112",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.1161986,
+          "lon": 8.6298236
+        }
+      },
+      "arbeitgeber": "NConsult IT-Systemhaus GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T09:18:31.493",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "R8L0Btex9v5Vr9Es4zvoK7-3aH90TxBM1B8GhqFGIRs=",
+      "hashId": "hU9stu29ZXoIdDmExSBTZAq-orENLLTTreoXVpMbZUc="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "BMWSB-2022-004: mehrere Referentinnen / Referenten (w/m/d) für den Arbeitsbereich „IT“",
+      "refnr": "10000-1188824893-S",
+      "arbeitsort": {
+        "plz": "10117",
+        "ort": "Berlin",
+        "strasse": "Krausenstraße 17-18",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5094987,
+          "lon": 13.3930701
+        }
+      },
+      "arbeitgeber": "Bundesverwaltungsamt Außenstelle Bonn A0ST 251",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T13:33:33.36",
+      "eintrittsdatum": "2022-05-16",
+      "hashId": "9Vt7HrQm3yk26UtSjJHWWxuCjh_FXb7p584vqRBGfy0="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "BMWSB-2022-003: mehrere Sachbearbeiterinnen / Sachbearbeiter (w/m/d) für den Arbeitsbereich „IT“",
+      "refnr": "10000-1188809139-S",
+      "arbeitsort": {
+        "plz": "10117",
+        "ort": "Berlin",
+        "strasse": "Krausenstraße 17-18",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5094987,
+          "lon": 13.3930701
+        }
+      },
+      "arbeitgeber": "Bundesverwaltungsamt Außenstelle Bonn A0ST 251",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T13:30:38.302",
+      "eintrittsdatum": "2022-05-16",
+      "hashId": "XWoyd0xPHJcQ2lD-U28M8mSzzEtWvm7ae0CVIk9YRNg="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "SAP Developer (all genders)",
+      "refnr": "10000-1187644047-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:19:52.484",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "DiTmfim2NC4ywSmRnfzlIa_RJHFyEQGmtU5mKjjP0Ts="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "Young Professional (w/m/d) SAP Betriebliche Umweltinformatik",
+      "refnr": "10000-1187643971-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:22:17.002",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "BJvjEUTzd5LHQ26L-7O3ylkflI_0cWE6OoZTmtGNtAg="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "Senior SAP ERP S/4HANA Consultant / Architekt (m/w/d)",
+      "refnr": "10000-1187643873-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:45:17.702",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "QKuqAkD5HWWA5OX1qVsI8XiJZlBvASHJ6tbBjVsGKR0="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "Young Professional (w/m/d) SAP PLM & Digital Transformation",
+      "refnr": "10000-1187643792-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:47:11.108",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "RXPc09tKKprXBO6VaYnUgsR90I_4KcxYs7CM5LVMPTU="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "SAP Consultant (m/w/d) Software Engineer",
+      "refnr": "10000-1187633867-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:50:25.088",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "4yfWpRTNjyreVSF3Lz3-XaHtYtHvyJiwR6JvvdEs68M="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "SAP Consultant IT Strategie (m/w/d)",
+      "refnr": "10000-1187633740-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:52:11.309",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "N9l7NAau6TQKQknjAbNIBAZxIpyzAfsvdNNYWTnVB0k="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "SAP Consultant (m/w/d) Research & Development Chemie /Pharma",
+      "refnr": "10000-1187633420-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:53:49.686",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "NtDHtUYmEc4dQctGVNCp5WWDtm88p2VRfFgqW3deDhA="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "Young Professional Cons. (w/m/d) SAP Business Intelligence",
+      "refnr": "10000-1187632702-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:54:46.831",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "VNuzQDV1gwUiPeynp26D1Uhp8QF56-oEgTUz8qtxp34="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "Senior SAP Entwickler / Architekt (m/w/d)",
+      "refnr": "10000-1187632025-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:56:22.639",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "vYwyZNgVAXOkiq-ttpnccbUVE_8p-cxP56W_QDB-99w="
+    },
+    {
+      "beruf": "Unternehmensberater/in",
+      "titel": "SAP Consultant Sustainability (m/w/d)",
+      "refnr": "10000-1187603962-S",
+      "arbeitsort": {
+        "plz": "68309",
+        "ort": "Mannheim",
+        "strasse": "Weinheimer Str. 68",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.5080752,
+          "lon": 8.5232645
+        }
+      },
+      "arbeitgeber": "SI PRO GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T09:01:42.577",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cwMLCHcHvE17YoV31O65jrpofEQxN6FctCaWfKb_UDg=",
+      "hashId": "CbuPia6-EsncvDnkJ7YJHdMFK7Wza1akzLTuIQwS_Oo="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "IT Support Bundesbehörde bis zu 2.500,00 Brutto (m/w/d)",
+      "refnr": "10000-1187515972-S",
+      "arbeitsort": {
+        "plz": "10713",
+        "ort": "Berlin",
+        "strasse": "Hohenzollerndamm 183",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4911023,
+          "lon": 13.317153
+        }
+      },
+      "arbeitgeber": "PERSO PLANKONTOR GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:06:22.233",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "mYrlcrKjx_t-6XIg4V718iE62VfE0-5cIczD8QVDsdQ=",
+      "hashId": "41GveVToffhq9mhikvaEm_PyjTItJkG7Lgq3UmIN4Vc="
+    },
+    {
+      "beruf": "IT-Systemadministrator/in",
+      "titel": "IT-Administrator (m/w/d)",
+      "refnr": "10000-1187513842-S",
+      "arbeitsort": {
+        "plz": "10713",
+        "ort": "Berlin",
+        "strasse": "Hohenzollerndamm 183",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4911023,
+          "lon": 13.317153
+        }
+      },
+      "arbeitgeber": "PERSO PLANKONTOR GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:05:33.199",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "mYrlcrKjx_t-6XIg4V718iE62VfE0-5cIczD8QVDsdQ=",
+      "hashId": "VilMxbwRytDQmSAPnuqcorAhKZz2tskhToNmTzLz6gQ="
+    },
+    {
+      "beruf": "Softwareentwickler/in",
+      "titel": "Softwareentwickler (w/m/d), Ref.Nr. 2871",
+      "refnr": "10000-1185666287-S",
+      "arbeitsort": {
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4926832,
+          "lon": 13.4025753
+        }
+      },
+      "arbeitgeber": "agex IT GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T12:38:22.713",
+      "eintrittsdatum": "2022-05-09",
+      "hashId": "p7asCJJGG7vLWz81XoMcW3O5av3dJMreZcy9M6VtHSo="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Informatiker Bereich Administration Citrix (m/w/d)",
+      "refnr": "10000-1184902414-S",
+      "arbeitsort": {
+        "plz": "10713",
+        "ort": "Berlin",
+        "strasse": "Hohenzollerndamm 183",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4911023,
+          "lon": 13.317153
+        }
+      },
+      "arbeitgeber": "PERSO PLANKONTOR GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:05:06.279",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "mYrlcrKjx_t-6XIg4V718iE62VfE0-5cIczD8QVDsdQ=",
+      "hashId": "W9YiMympi78RHpSNv9Lw96MgNa1QZBStNWOQ_oEecEg="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "JAVA Web-Entwickler (m/w/d)_4655",
+      "refnr": "10000-1183977848-S",
+      "arbeitsort": {
+        "ort": "Mannheim",
+        "region": "Baden-Württemberg",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 49.4945042,
+          "lon": 8.5055834
+        }
+      },
+      "arbeitgeber": "TempoRatio Consulting GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T09:58:02.778",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "LVRhSNmYLsdQk1NLAPfOX0LV5Frkx1YykWhk4qymId0=",
+      "hashId": "bklkYZAdMvaNGjd_bCw5EgVh2xEl947qYXQYBOnvH5U="
+    },
+    {
+      "beruf": "DevOps Engineer",
+      "titel": "DevOps Engineer (w/m/d) CI, Ref.Nr. 2713",
+      "refnr": "10000-1183160148-S",
+      "arbeitsort": {
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4926832,
+          "lon": 13.4025753
+        }
+      },
+      "arbeitgeber": "agex IT GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T12:40:36.858",
+      "eintrittsdatum": "2022-05-09",
+      "hashId": "SnukGLHusVwzngfx9K_h9QM1RsdC7Yww6L5NUgU6Nb4="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Senior Engineer (m/w/d)",
+      "refnr": "10000-1182468547-S",
+      "arbeitsort": {
+        "plz": "10713",
+        "ort": "Berlin",
+        "strasse": "Hohenzollerndamm 183",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4911023,
+          "lon": 13.317153
+        }
+      },
+      "arbeitgeber": "PERSO PLANKONTOR GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:11:41.321",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "mYrlcrKjx_t-6XIg4V718iE62VfE0-5cIczD8QVDsdQ=",
+      "hashId": "94s0pmeLl4gMwrH2TzQscGFoUp7CsyBKYMyZjGUUkps="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Regular Engineer (m/w/d)",
+      "refnr": "10000-1182468099-S",
+      "arbeitsort": {
+        "plz": "10713",
+        "ort": "Berlin",
+        "strasse": "Hohenzollerndamm 183",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4911023,
+          "lon": 13.317153
+        }
+      },
+      "arbeitgeber": "PERSO PLANKONTOR GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:14:13.866",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "mYrlcrKjx_t-6XIg4V718iE62VfE0-5cIczD8QVDsdQ=",
+      "hashId": "pzqC-kuMIO8bMr7N552NjE2XzL2VcmM9Q9dHCoKqXCY="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Junior System Engineer (m/w/d)",
+      "refnr": "10000-1182466310-S",
+      "arbeitsort": {
+        "plz": "10713",
+        "ort": "Berlin",
+        "strasse": "Hohenzollerndamm 183",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4911023,
+          "lon": 13.317153
+        }
+      },
+      "arbeitgeber": "PERSO PLANKONTOR GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:08:39.602",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "mYrlcrKjx_t-6XIg4V718iE62VfE0-5cIczD8QVDsdQ=",
+      "hashId": "86HV2fNkE-OkE0arzXnR3xUOQ3uyAjVOJvKfmJUHfQU="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "IT Techniker Onsite Support (m/w/d)",
+      "refnr": "10000-1182466241-S",
+      "arbeitsort": {
+        "plz": "10713",
+        "ort": "Berlin",
+        "strasse": "Hohenzollerndamm 183",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4911023,
+          "lon": 13.317153
+        }
+      },
+      "arbeitgeber": "PERSO PLANKONTOR GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:08:25.037",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "mYrlcrKjx_t-6XIg4V718iE62VfE0-5cIczD8QVDsdQ=",
+      "hashId": "uhjdtglAEgzIsPHxQQkODK9z-Vo7RR-G_3pUzZ8yJCM="
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "IT Networking Engineer (m/w/d)",
+      "refnr": "10000-1182465139-S",
+      "arbeitsort": {
+        "plz": "10713",
+        "ort": "Berlin",
+        "strasse": "Hohenzollerndamm 183",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4911023,
+          "lon": 13.317153
+        }
+      },
+      "arbeitgeber": "PERSO PLANKONTOR GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-29",
+      "modifikationsTimestamp": "2022-04-29T08:05:43.901",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "mYrlcrKjx_t-6XIg4V718iE62VfE0-5cIczD8QVDsdQ=",
+      "hashId": "PUO_98Z3O1xiSeYSZaK1Z-K6or4JUoXu0YU1XyF0EX4="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Fachinformatiker - 1st Level Support Subscription Management",
+      "refnr": "14225-173945_5aad1c4-S",
+      "arbeitsort": {
+        "plz": "12099",
+        "ort": "Berlin",
+        "strasse": "Komturstraße 18",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4576401,
+          "lon": 13.3965301
+        }
+      },
+      "arbeitgeber": "Concentrix Management Holding GmbH & Co. KG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-28",
+      "modifikationsTimestamp": "2022-04-28T07:41:49.077",
+      "eintrittsdatum": "2022-04-28",
+      "hashId": "nK8RBhSrCZhCOsZAHx4Sfq3qQ0bf60hegbY7zbpQaxw=",
+      "externeUrl": "https://www.jobvector.de/jobs-stellenangebote/informatik/administration-it-support/it-support-first-level-support-173945/?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid173945&utm_content=b2c&utm_term=tmf8eca_uic5aad1c4"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Fachinformatiker - Second Level IT-Support (m/w/d)",
+      "refnr": "14225-173944_c2b478c-S",
+      "arbeitsort": {
+        "plz": "12099",
+        "ort": "Berlin",
+        "strasse": "Komturstraße 18",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4576401,
+          "lon": 13.3965301
+        }
+      },
+      "arbeitgeber": "Concentrix Management Holding GmbH & Co. KG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-28",
+      "modifikationsTimestamp": "2022-04-28T07:41:49.174",
+      "eintrittsdatum": "2022-04-28",
+      "hashId": "HpsfXWEt9Y6cdowHcmwmwucOi6NCWXQog1hBr_M30_I=",
+      "externeUrl": "https://www.jobvector.de/jobs-stellenangebote/informatik/administration-it-support/it-support-second-level-support-173944/?utm_source=arbeitsagentur&utm_medium=partner&utm_campaign=tmcfdae_job_jid173944&utm_content=b2c&utm_term=tmf8eca_uicc2b478c"
+    },
+    {
+      "beruf": "Servicetechniker/in - IT",
+      "titel": "German Customer Service Representative (m/w/d)",
+      "refnr": "13319-606175/1_336456LS-S",
+      "arbeitsort": {
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4926832,
+          "lon": 13.4025753
+        }
+      },
+      "arbeitgeber": "Hays Professional Solutions GmbH Standort Berlin",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-28",
+      "modifikationsTimestamp": "2022-04-28T10:35:59.465",
+      "eintrittsdatum": "2022-04-28",
+      "logoHashId": "8q0oOuNaR-cYErTdkCZoCOnOk4vDNKepc7r12fVjvPw=",
+      "hashId": "1PNvYPI39wQt5H3nX5Dm5arG_XpF2EfzUp_nJqJaMP4="
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Mitarbeiterin / Mitarbeiter Servicedesk und Anwendungssch...",
+      "refnr": "13035-66.97253.62a3-S",
+      "arbeitsort": {
+        "plz": "53340",
+        "ort": "Meckenheim, Rheinland",
+        "region": "Nordrhein-Westfalen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.619819,
+          "lon": 7.0172834
+        }
+      },
+      "arbeitgeber": "Bundeskriminalamt",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-28",
+      "modifikationsTimestamp": "2022-04-28T07:02:42.613",
+      "eintrittsdatum": "2022-04-28",
+      "hashId": "JqFLXgUgpLW-yS3X3ku4XIIFwrkb4JL17g6fZ7s5rfo=",
+      "externeUrl": "https://www.stellenonline.de/job/62a3acf7-3e74-5782-a01b-45ccea7b6116?utm_source=ba&utm_medium=ba&utm_campaign=stonba&s404=freivpr-5TVVIQgAABEE&hash=417c11ed0536d3f707beadb42000917590f2dd53&pid=280"
+    },
+    {
+      "beruf": "IT-Berater/in",
+      "titel": "Quereinstieg als IT Consultant*",
+      "refnr": "12953-15070138_322901LS-S",
+      "arbeitsort": {
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.4926832,
+          "lon": 13.4025753
+        }
+      },
+      "arbeitgeber": "Academic Work Germany GmbH",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-28",
+      "modifikationsTimestamp": "2022-04-28T17:45:16.97",
+      "eintrittsdatum": "2022-04-28",
+      "hashId": "pthhGilOmulrCivz2rRBfKofKQaLnJLcmfv1HpJb3cU=",
+      "externeUrl": "https://jobs.academicwork.de/stellenanzeige/quereinstieg-als-it-consultant/15070138"
+    },
+    {
+      "beruf": "Wirtschaftsinformatiker/in (Hochschule)",
+      "titel": "Change Manager (m/w/d)",
+      "refnr": "12952-2022_571510-S",
+      "arbeitsort": {
+        "plz": "10117",
+        "ort": "Berlin",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5172721,
+          "lon": 13.3882903
+        }
+      },
+      "arbeitgeber": "ARTS Holding SE",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-28",
+      "modifikationsTimestamp": "2022-04-28T10:05:40.408",
+      "eintrittsdatum": "2022-04-28",
+      "hashId": "J_gsCaJ7qRU8yUQ453YxfoYjqZrzzBgZJSJXXVIMi6Q=",
+      "externeUrl": "https://www.jopago.com/job-external/571510"
+    },
+    {
+      "beruf": "Fachinformatiker/in - Systemintegration",
+      "titel": "Fachinformatiker (m/w/d) als Mitarbeiter IT User Helpdesk / User Support / Su..., PROJECT Immobilien",
+      "refnr": "12811-794137-S",
+      "arbeitsort": {
+        "plz": "10627",
+        "ort": "Berlin",
+        "strasse": "Fritschestraße 62",
+        "region": "Berlin",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 52.5106844,
+          "lon": 13.3000104
+        }
+      },
+      "arbeitgeber": "PROJECT Immobilien",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-28",
+      "modifikationsTimestamp": "2022-04-28T07:16:31.147",
+      "eintrittsdatum": "2022-05-15",
+      "hashId": "LljKWiF1XwuTviXaKy14cvUpxw-yuDlhY1eCGfNPjlE=",
+      "externeUrl": "https://www.finest-jobs.com/Stellenanzeige/Fachinformatiker-D-Als-Mitarbeiter-It-User-Helpdes-683741?cp=BA"
+    },
+    {
+      "beruf": "Informatiker/in (Hochschule)",
+      "titel": "Data (...) IT-Entwickler Datenbanken (w/m/d)",
+      "refnr": "12456-799186-1-S",
+      "arbeitsort": {
+        "plz": "60313",
+        "ort": "Frankfurt am Main",
+        "region": "Hessen",
+        "land": "Deutschland",
+        "koordinaten": {
+          "lat": 50.115356,
+          "lon": 8.6832823
+        }
+      },
+      "arbeitgeber": "Deutsche Bahn AG",
+      "aktuelleVeroeffentlichungsdatum": "2022-04-28",
+      "modifikationsTimestamp": "2022-04-29T07:17:15.215",
+      "eintrittsdatum": "2022-04-29",
+      "logoHashId": "cnHaRAbunmlWzn7CGGibkJ-AJMgtVIkS4Fjt6wmbgsw=",
+      "hashId": "hK6mDhUATVdz9l8BbXPBcLX1Lp2NkwuzlrBd_n2EB9U="
+    }
+  ],
+  "maxErgebnisse": 490,
+  "page": 1,
+  "size": 100,
+  "facetten": {
+    "befristung": {
+      "counts": {
+        "1": 28,
+        "2": 283,
+        "3": 179
+      },
+      "maxCount": 490
+    },
+    "behinderung": {
+      "counts": {
+        "false": 487,
+        "true": 3
+      },
+      "maxCount": 490
+    },
+    "berufsfeld": {
+      "counts": {
+        "Einkauf und Vertrieb": 3,
+        "Elektrotechnik": 56,
+        "Geologie, Geografie und Meteorologie": 1,
+        "IT-Netzwerktechnik, -Administration, -Organisation": 170,
+        "IT-Systemanalyse, -Anwendungsberatung und -Vertrieb": 26,
+        "Informatik": 490,
+        "Kaufleute - Verkehr und Logistik": 1,
+        "Lehrtätigkeit an außerschulischen Bildungseinrichtungen": 1,
+        "Mathematik und Statistik": 8,
+        "Mechatronik und Automatisierungstechnik": 2,
+        "Medien-, Dokumentations- und Informationsdienste": 1,
+        "Physik": 1,
+        "Rechnungswesen, Controlling und Revision": 1,
+        "Softwareentwicklung und Programmierung": 635,
+        "Technische Forschung und Entwicklung": 1,
+        "Technische Mediengestaltung": 10,
+        "Technische Produktionsplanung und -steuerung": 8,
+        "Unternehmensorganisation und -strategie": 19,
+        "Verwaltung": 4,
+        "Werbung und Marketing": 5,
+        "Überwachung und Steuerung des Verkehrsbetriebs": 1
+      },
+      "maxCount": 1027
+    },
+    "pav": {
+      "counts": {
+        "false": 490,
+        "true": 74
+      },
+      "maxCount": 564
+    },
+    "arbeitsort": {
+      "counts": {
+        "Aachen": 73,
+        "Aalen, Württemberg": 14,
+        "Abstatt": 18,
+        "Ahaus": 27,
+        "Aschaffenburg": 17,
+        "Augsburg, Bayern": 87,
+        "Balingen": 16,
+        "Bamberg": 13,
+        "Bayreuth": 22,
+        "Berlin": 490,
+        "Bielefeld": 69,
+        "Bissendorf, Kreis Osnabrück": 14,
+        "Bochum": 34,
+        "Bonn": 107,
+        "Braunschweig": 56,
+        "Bremen": 249,
+        "Bruchsal": 21,
+        "Budapest": 27,
+        "Böblingen": 18,
+        "Chemnitz, Sachsen": 52,
+        "Darmstadt": 39,
+        "Dortmund": 165,
+        "Dresden": 170,
+        "Duisburg": 58,
+        "Düsseldorf": 174,
+        "Erfurt": 74,
+        "Erlangen": 112,
+        "Eschen": 16,
+        "Essen, Ruhr": 97,
+        "Frankfurt am Main": 448,
+        "Freiburg im Breisgau": 38,
+        "Friedrichshafen": 50,
+        "Furtwangen im Schwarzwald": 13,
+        "Fürth, Bayern": 35,
+        "Göttingen, Niedersachsen": 14,
+        "Halle (Saale)": 38,
+        "Hamburg": 369,
+        "Hanau": 15,
+        "Hannover": 239,
+        "Heidelberg, Neckar": 35,
+        "Heilbronn, Neckar": 49,
+        "Hildesheim": 14,
+        "Holzwickede": 15,
+        "Immenstaad am Bodensee": 18,
+        "Ingolstadt, Donau": 48,
+        "Jena": 47,
+        "Karlsruhe, Baden": 151,
+        "Kassel, Hessen": 37,
+        "Kempten (Allgäu)": 16,
+        "Kiel": 65,
+        "Koblenz am Rhein": 29,
+        "Köln": 260,
+        "Leinfelden-Echterdingen": 23,
+        "Leipzig": 155,
+        "Leonberg, Württemberg": 64,
+        "Leverkusen": 18,
+        "Lindau (Bodensee)": 14,
+        "Ludwigsburg, Württemberg": 25,
+        "Ludwigshafen am Rhein": 32,
+        "Lübeck": 25,
+        "Magdeburg": 51,
+        "Mainz am Rhein": 44,
+        "Manching": 69,
+        "Mannheim": 126,
+        "Markdorf, Baden": 18,
+        "Marl, Westfalen": 16,
+        "Mülheim an der Ruhr": 20,
+        "München": 692,
+        "Münster, Westfalen": 83,
+        "Neckarsulm": 38,
+        "Neu-Isenburg": 21,
+        "Neuss": 15,
+        "Nürnberg, Mittelfranken": 284,
+        "Oldenburg (Oldb)": 20,
+        "Osnabrück": 49,
+        "Paderborn": 39,
+        "Penzberg": 14,
+        "Potsdam": 61,
+        "Ratingen": 24,
+        "Ravensburg, Württemberg": 26,
+        "Regensburg": 69,
+        "Reutlingen": 26,
+        "Rosenheim, Oberbayern": 23,
+        "Rostock": 30,
+        "Saarbrücken": 39,
+        "Salzgitter": 14,
+        "Schweinfurt": 14,
+        "Singen (Hohentwiel)": 15,
+        "Stuttgart": 326,
+        "Taufkirchen, Kreis München": 16,
+        "Ulm, Donau": 124,
+        "Unterschleißheim": 14,
+        "Villingen-Schwenningen": 31,
+        "WIEN": 20,
+        "Walldorf, Baden": 123,
+        "Wiesbaden": 103,
+        "Wolfsburg": 36,
+        "Wuppertal": 27,
+        "Würzburg": 54,
+        "Zwickau": 17
+      },
+      "maxCount": 7840
+    },
+    "veroeffentlichtseit": {
+      "counts": {
+        "0": 7,
+        "1": 13,
+        "14": 490,
+        "28": 813,
+        "7": 316,
+        "alle": 1374
+      },
+      "maxCount": 1374
+    },
+    "arbeitsort_plz": {
+      "counts": {
+        "01067": 37,
+        "01069": 26,
+        "01099": 13,
+        "01109": 15,
+        "01159": 8,
+        "01309": 14,
+        "04103": 32,
+        "04109": 35,
+        "06108": 16,
+        "07743": 12,
+        "07745": 9,
+        "08056": 10,
+        "09111": 17,
+        "10115": 67,
+        "10117": 43,
+        "10178": 37,
+        "10245": 23,
+        "10587": 15,
+        "10623": 15,
+        "10713": 11,
+        "10789": 45,
+        "14467": 12,
+        "14469": 9,
+        "14471": 12,
+        "18055": 14,
+        "20095": 85,
+        "20097": 24,
+        "20457": 16,
+        "20539": 10,
+        "21129": 39,
+        "22085": 10,
+        "22335": 13,
+        "22607": 9,
+        "24103": 22,
+        "24161": 10,
+        "28195": 26,
+        "28199": 25,
+        "28217": 14,
+        "28309": 45,
+        "28357": 11,
+        "28359": 25,
+        "30159": 39,
+        "30177": 16,
+        "30539": 53,
+        "30625": 12,
+        "30655": 12,
+        "33100": 26,
+        "33142": 12,
+        "33602": 22,
+        "33609": 24,
+        "34117": 11,
+        "38100": 22,
+        "38122": 15,
+        "38239": 9,
+        "38440": 15,
+        "39104": 25,
+        "40210": 22,
+        "40212": 18,
+        "40213": 15,
+        "40474": 10,
+        "40476": 9,
+        "41460": 9,
+        "44135": 29,
+        "44227": 15,
+        "44263": 18,
+        "44269": 15,
+        "44319": 19,
+        "44787": 10,
+        "44801": 12,
+        "45127": 28,
+        "45143": 10,
+        "47051": 18,
+        "48143": 14,
+        "48155": 12,
+        "48159": 14,
+        "48683": 27,
+        "49074": 11,
+        "49080": 20,
+        "49143": 14,
+        "50667": 40,
+        "50670": 14,
+        "50676": 14,
+        "50678": 14,
+        "50679": 22,
+        "50829": 16,
+        "51063": 12,
+        "51149": 12,
+        "51643": 10,
+        "52062": 12,
+        "52068": 14,
+        "52078": 16,
+        "53111": 18,
+        "53113": 17,
+        "53175": 9,
+        "53340": 9,
+        "55116": 19,
+        "56070": 9,
+        "59439": 15,
+        "60311": 54,
+        "60313": 108,
+        "60327": 15,
+        "60329": 12,
+        "60386": 9,
+        "60437": 55,
+        "60486": 28,
+        "60489": 23,
+        "60528": 14,
+        "63263": 19,
+        "64293": 17,
+        "65183": 14,
+        "65185": 18,
+        "65187": 15,
+        "65189": 27,
+        "65760": 9,
+        "65843": 9,
+        "66115": 12,
+        "67061": 10,
+        "68159": 13,
+        "68161": 10,
+        "68165": 21,
+        "68309": 13,
+        "69190": 118,
+        "70173": 62,
+        "70178": 42,
+        "70469": 27,
+        "70565": 16,
+        "70597": 11,
+        "70771": 15,
+        "71034": 14,
+        "71229": 61,
+        "71272": 11,
+        "71560": 9,
+        "72760": 9,
+        "73084": 10,
+        "74074": 12,
+        "74076": 18,
+        "74172": 30,
+        "74232": 18,
+        "76131": 25,
+        "76133": 26,
+        "76135": 29,
+        "76227": 15,
+        "76646": 13,
+        "78052": 19,
+        "78120": 13,
+        "80331": 100,
+        "80333": 14,
+        "80335": 13,
+        "80339": 11,
+        "80539": 23,
+        "80636": 17,
+        "80639": 10,
+        "80686": 11,
+        "80687": 13,
+        "80807": 31,
+        "80809": 129,
+        "80992": 41,
+        "80995": 26,
+        "81377": 14,
+        "81541": 14,
+        "82024": 16,
+        "82377": 14,
+        "83022": 9,
+        "83026": 12,
+        "85049": 25,
+        "85077": 69,
+        "85221": 9,
+        "85354": 9,
+        "85716": 13,
+        "86150": 32,
+        "87435": 9,
+        "87700": 12,
+        "88045": 30,
+        "88046": 19,
+        "88090": 18,
+        "88131": 11,
+        "88212": 15,
+        "88400": 11,
+        "88677": 18,
+        "89073": 10,
+        "89077": 15,
+        "89079": 13,
+        "89081": 33,
+        "90402": 43,
+        "90403": 17,
+        "90411": 20,
+        "90429": 19,
+        "90431": 31,
+        "90471": 17,
+        "90478": 12,
+        "90489": 32,
+        "90762": 16,
+        "91052": 30,
+        "91058": 62,
+        "93047": 15,
+        "93053": 9,
+        "93055": 13,
+        "94469": 11,
+        "95444": 10,
+        "99084": 36
+      },
+      "maxCount": 7840
+    },
+    "arbeitgeber": {
+      "counts": {
+        "1&1 Internet SE": 1,
+        "A tempo Personalmanagement GmbH": 1,
+        "ADVANT Beiten": 1,
+        "AENEAS Consulting GmbH": 1,
+        "ALDB GmbH": 1,
+        "ANG.-Punkt und gut! GmbH": 7,
+        "ARTS Holding SE": 6,
+        "AWO Bundesverband e. V.": 1,
+        "AWO Bundesverband e.V.": 1,
+        "Academic Work Germany GmbH": 1,
+        "Aktiv Schuh Handelsgesellschaft mbH": 1,
+        "Allgeier Experts GmbH": 4,
+        "Allgeier IT GmbH": 1,
+        "Apriva GmbH": 2,
+        "Argo Aviation Defense GmbH": 1,
+        "Autohaus Nefzger GmbH & Co. KG": 1,
+        "BASF Services Europe GmbH": 12,
+        "BFI Informationssysteme GmbH": 8,
+        "BG BAU Berufsgenossenschaft der Bauwirtschaft Hauptverwaltung": 3,
+        "BIM Berliner Immobilienmanagement GmbH": 1,
+        "BMW AG": 2,
+        "Bally Wulff Games & Entertainment GmbH": 1,
+        "Berl. Verkehrsbetr. (BVG)Ansta lt d.öffentl. Rechts": 3,
+        "Berliner Stadtreinigungsbetriebe (BSR)": 1,
+        "Berliner Wasserbetriebe": 5,
+        "Bike24 GmbH": 1,
+        "Brands Consulting | Datenschut z & Beratung": 1,
+        "Brighter AI Technologies GmbH": 2,
+        "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL)": 3,
+        "Bundesanstalt für Materialforschung und -prüfung (BAM)": 1,
+        "Bundesinstitut für Risikobewertung": 1,
+        "Bundesinstitut für Risikobewertung (BfR)": 2,
+        "Bundeskriminalamt": 1,
+        "Bundesministerium Ernährung und Landwirtschaft": 1,
+        "Bundesverwaltungsamt Außenstelle Bonn A0ST 251": 6,
+        "CANCOM": 6,
+        "CEBONA GmbH Verwaltung": 1,
+        "CENIT AG": 2,
+        "Charité CFM Facility Management GmbH": 1,
+        "Charité – Universitätsmedizin Berlin": 1,
+        "Cintellic GmbH": 1,
+        "Comarch AG": 1,
+        "CompuGroup Medical SE & Co. KGaA": 1,
+        "Concentrix Management Holding GmbH & Co. KG": 2,
+        "Copy Rex Büromaschinen Vertriebs GmbH": 1,
+        "Creditsafe Deutschland GmbH": 1,
+        "DG timework GmbH": 4,
+        "DL Personal GmbH": 1,
+        "DLR Projektträge": 1,
+        "Deutsche Bahn AG": 77,
+        "Deutsche Rentenversicherung Bund": 2,
+        "Deutscher Bundestag Verwaltung": 2,
+        "Die Autobahn GmbH des Bundes": 2,
+        "Experis GmbH": 3,
+        "FERCHAU GmbH Niederlassung Berlin City": 12,
+        "GK Software SE": 7,
+        "Hays Professional Solutions GmbH Standort Berlin": 16,
+        "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH": 2,
+        "Herrmann Personaldienste GmbH": 3,
+        "Hexad GmbH - Wolfsburg": 5,
+        "I. K. Hofmann GmbH": 9,
+        "IBI - Institut für Bildung in der Informationsgesellschaft gGmbH": 3,
+        "INC Invention Center": 2,
+        "IQTIG - Institut für Qualitätssicherung und Transparenz im Gesundheitswesen": 2,
+        "Infoniqa Deutschland GmbH": 2,
+        "Investitionsbank Berlin Anstalt des öffentl. Rechts": 3,
+        "Kithara Software GmbH": 2,
+        "MBition GmbH": 2,
+        "Magnus Consulting Christian Magnus": 4,
+        "Materna Information & Communications SE": 5,
+        "MedTec Healthcare Recruitment": 2,
+        "Micropayment GmbH": 2,
+        "NConsult IT-Systemhaus GmbH": 5,
+        "NORDkind Recruiting GmbH": 3,
+        "Nortal AG": 3,
+        "OSB AG Ingenieur- und IT-Dienstleistungen": 4,
+        "Osyon GmbH": 5,
+        "PERSO PLANKONTOR GmbH": 8,
+        "Positive Minds GmbH": 2,
+        "Raven51 AG": 2,
+        "Robert Bosch GmbH Hauptverwaltung": 3,
+        "SI PRO GmbH": 10,
+        "STRATO Personal GmbH": 2,
+        "Spirit/21 GmbH": 2,
+        "TASC GmbH": 2,
+        "UNISTAFF GmbH": 3,
+        "Umbrella Unternehmensberatung GmbH": 5,
+        "Vivantes-Netzwerk für Gesundheit GmbH": 3,
+        "WGI GmbH": 2,
+        "Workstation AG": 6,
+        "agex IT GmbH": 2,
+        "dotSource GmbH": 8,
+        "ethinking GmbH": 4,
+        "expertum GmbH": 8,
+        "frag FINN e.V.": 2,
+        "mpex GmbH": 4,
+        "ncsolution NCS GmbH": 6,
+        "puro Personaldienstleistung GmbH": 2,
+        "secunet Security Networks AG": 2,
+        "top itservices AG": 7
+      },
+      "maxCount": 490
+    },
+    "beruf": {
+      "counts": {
+        "Account-Manager/in": 3,
+        "Anwendungsprogrammierer/in": 9,
+        "Anwendungssystemadministrator/in": 3,
+        "Anwendungssystemberater/in": 5,
+        "Architekt/in": 1,
+        "Arztsekretär/in": 1,
+        "Assistent/in - Informatik (Medieninformatik)": 2,
+        "Assistent/in - Informatik (allgemeine Informatik)": 4,
+        "Assistent/in - Informatik (technische Informatik)": 1,
+        "Backend-Entwickler/in": 1,
+        "Bauleiter/in": 1,
+        "Beamt(er/in) - Länder (geh. Dienst)": 1,
+        "Beamt(er/in) - Länder (mittl. Dienst)": 1,
+        "Berater/in - digitale Transformation": 6,
+        "Betriebsinformatiker/in": 5,
+        "Betriebswirt/in (Fachschule) - Absatz/Marketing": 1,
+        "Betriebswirt/in (Fachschule) - E-Business": 4,
+        "Betriebswirt/in (Fachschule) - Informationsverarbeitung": 5,
+        "Betriebswirt/in (Hochschule)": 5,
+        "Bioinformatiker/in": 6,
+        "Business-Analyst/in": 2,
+        "Business-Intelligence-Consultant": 9,
+        "Bürokaufmann/-frau": 2,
+        "CAD-Organisator/in": 2,
+        "Cloud-Architect": 2,
+        "Data Engineer": 19,
+        "Data Scientist": 30,
+        "Data-Warehouse-Analyst/in": 7,
+        "Datenbankentwickler/in": 5,
+        "Datenerfasser/in": 2,
+        "DevOps Engineer": 3,
+        "EDV-Fachkraft": 55,
+        "ERP-Anwendungsentwickler/in": 3,
+        "ERP-Organisator/in": 4,
+        "Elektroniker/in - Geräte und Systeme": 2,
+        "Embedded-Systems-Entwickler/in": 7,
+        "Entwickler/in - Datenvisualisierung": 2,
+        "Entwickler/in Digitale Medien": 16,
+        "Fachberater/in - Integrierte Systeme": 8,
+        "Fachinformatiker/in - Anwendungsentwicklung": 46,
+        "Fachinformatiker/in - Daten- und Prozessanalyse": 3,
+        "Fachinformatiker/in - Digitale Vernetzung": 2,
+        "Fachinformatiker/in - Systemintegration": 139,
+        "First-Level-Supporter/in": 5,
+        "Frontend-Entwickler/in": 3,
+        "Geoinformatiker/in": 3,
+        "Geowissenschaftler/in": 2,
+        "IT-Administrator/in": 18,
+        "IT-Berater/in": 11,
+        "IT-Entwickler/in": 7,
+        "IT-Kundenbetreuer/in": 6,
+        "IT-Lösungsentwickler/in": 2,
+        "IT-Manager/in": 3,
+        "IT-Projektleiter/in": 3,
+        "IT-Sicherheitskoordinator/in": 2,
+        "IT-System-Elektroniker/in": 10,
+        "IT-System-Kaufmann/-frau": 5,
+        "IT-Systemadministrator/in": 41,
+        "IT-Tester/in": 4,
+        "Informatiker/in (Hochschule)": 278,
+        "Informatiker/in (Weiterbildung)": 33,
+        "Informatikkaufmann/-frau": 23,
+        "Information-Architect": 2,
+        "Informationsmanager/in": 28,
+        "Ingenieur/in - Automatisierungstechnik": 2,
+        "Ingenieur/in - Elektrotechnik": 12,
+        "Ingenieur/in - Informations-, Kommunikationstechnik": 12,
+        "Ingenieur/in - Systems Engineering": 3,
+        "Ingenieur/in - technische Informatik": 9,
+        "Ingenieurinformatiker/in": 17,
+        "Kaufmann/-frau - Büromanagement": 3,
+        "Kaufmann/-frau - Digitalisierungsmanagement": 7,
+        "Machine Learning Engineer": 7,
+        "Mathematiker/in": 8,
+        "Mediendesigner/in": 2,
+        "Medizininformatiker/in": 5,
+        "Netzwerk-Servicetechniker/in": 4,
+        "Netzwerkadministrator/in": 5,
+        "Produktmanager/in": 2,
+        "Projektleiter/in": 5,
+        "Prozessmanager/in - RPA": 4,
+        "Qualitätsmanager/in": 2,
+        "SPS-Fachkraft": 7,
+        "Sales-Manager/in": 2,
+        "Servicetechniker/in - IT": 13,
+        "Sicherheitstechniker/in (IT)": 4,
+        "Software-Architect": 7,
+        "Softwareentwickler/in": 50,
+        "Statistiker/in": 2,
+        "Systeminformatiker/in": 9,
+        "Techniker/in - Informatik (Netzwerktechnologie)": 2,
+        "Unternehmensberater/in": 10,
+        "Verwaltungsinformatiker/in": 3,
+        "Verwaltungswissenschaftler/in": 2,
+        "Web Developer": 17,
+        "Webdesigner/in": 3,
+        "Wirtschaftsinformatiker/in (Fachschule)": 10,
+        "Wirtschaftsinformatiker/in (Hochschule)": 91,
+        "Wirtschaftsinformatiker/in - IT-Systeme": 4,
+        "Wirtschaftsingenieur/in": 3
+      },
+      "maxCount": 688
+    },
+    "berufserfahrung": {
+      "counts": {
+        "1": 17,
+        "2": 87
+      },
+      "maxCount": 490
+    },
+    "branche": {
+      "counts": {
+        "1": 7,
+        "11": 100,
+        "13": 58,
+        "14": 34,
+        "15": 2,
+        "18": 23,
+        "19": 1,
+        "2": 14,
+        "21": 17,
+        "22": 2,
+        "23": 67,
+        "24": 1,
+        "25": 10,
+        "28": 125,
+        "3": 1,
+        "4": 2,
+        "5": 5,
+        "6": 4,
+        "7": 6,
+        "9": 11
+      },
+      "maxCount": 490
+    },
+    "arbeitszeit": {
+      "counts": {
+        "ho": 9,
+        "tz": 54,
+        "vz": 434
+      },
+      "maxCount": 490
+    },
+    "eintrittsdatum": {
+      "counts": {
+        "10_01_01-now": 407,
+        "22_05_01-22_06_01": 41,
+        "22_06_01-22_07_01": 43,
+        "22_07_01-22_08_01": 8,
+        "22_08_01-22_09_01": 1,
+        "22_09_01-22_10_01": 1,
+        "22_10_01-22_11_01": 2
+      },
+      "maxCount": 490
+    },
+    "zeitarbeit": {
+      "counts": {
+        "false": 365,
+        "true": 125
+      },
+      "maxCount": 490
+    },
+    "corona": {
+      "counts": {
+        "false": 490
+      },
+      "maxCount": 490
+    },
+    "fuehrungsverantwortung": {
+      "counts": {
+        "1": 181,
+        "2": 8,
+        "3": 9,
+        "4": 1
+      },
+      "maxCount": 490
+    }
+  }
+}
