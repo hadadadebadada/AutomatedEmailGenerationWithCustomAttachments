@@ -1,74 +1,54 @@
-# Application Duplication and Email Automation System
+# ApplicationAutomation README.md
 
-This system is designed to load two JSON files, compare them for duplicates, and then send emails with the values from the files to different email addresses.
+## Overview
 
-## Features
-
-- **JSON File Loading**: Loads two JSON files for processing.
-- **Duplicate Checking**: Compares the loaded files for any duplicate entries.
-- **Email Automation**: Sends out emails with specific values extracted from the JSON files.
-
-## How It Works
-
-The application works in several key steps:
-
-1. **Load JSON Files**: The system starts by loading the required JSON files that contain the data to be processed.
-2. **Compare for Duplicates**: It then compares the data from these files to identify any duplicates.
-3. **Email Preparation and Sending**: For each unique entry, the system prepares an email with relevant information and sends it to designated email addresses.
-
-## Implementation Details
-
-
-# Application Automation Documentation
+ApplicationAutomation is a Java-based system designed to automate the job application process. It manages job listings from JSON files, generates personalized application PDFs, checks for duplicate applications, and sends applications via email. This README provides an overview of its key components and setup instructions.
 
 ## Key Components
 
 ### `MailSender`
-Handles the construction and sending of emails, leveraging the Java Mail API for email creation and SMTP authentication.
+- **Description**: Handles the construction and sending of emails. It uses the Java Mail API to create emails and SMTP for authentication, ensuring that job applications are sent to the correct recipients with the necessary attachments.
+- **Key Methods**:
+  - `sendMail(String to, String attachment, String subject)`: Sends an email to the specified recipient with an attached PDF application and a subject.
 
 ### `ApplicationCreation`
-Manages the loading of JSON files for job listings, performs duplicate checks, and initiates the email sending process through `MailSender`.
+- **Description**: Manages the loading of job listings from JSON files, performs duplicate checks, and initiates the email sending process. It generates personalized application documents for each job listing.
+- **Key Methods**:
+  - `createPdf(String fileName)`: Generates a PDF document for the application.
+  - `sendingMails()`: Initiates the process of sending out the prepared emails to the respective companies.
 
 ### `DubChecker`
+- **Description**: Performs checks for duplicate applications by comparing new job listings with previously applied ones. This ensures that multiple applications are not sent to the same company for the same job position.
+- **Key Methods**:
+  - `printCompany()`: Compares new job listings with existing ones to identify duplicates.
+  - `removeDuplicates(ArrayList<T> list)`: Removes duplicates from a list, aiding in the process of identifying new job applications.
 
 ### `ScrapyLinkCreator`
+- **Description**: *No implementation details provided.* Assumed to be responsible for generating or managing links related to web scraping, potentially for gathering job listings or company information.
 
+## Setup and Usage
 
-#### Usage
+1. **Prerequisites**:
+   - Java JDK 8 or newer.
+   - Access to an SMTP server for sending emails (e.g., Gmail SMTP).
+   - iTextPDF library for PDF creation and manipulation.
 
-- File preparation: Place `all.json` and `new.json` in the specified directory.
-- JSON structure: Both files should include an array named `stellenangebote` with `company` fields in listings.
-- Execution: Run `DubChecker` to list duplicate company names.
+2. **Configuration**:
+   - Update `MailSender` with your SMTP server details, including username and password.
+   - Ensure JSON files with job listings are correctly formatted and accessible to the `ApplicationCreation` component.
 
-This structured documentation provides a clear overview of each component and utility tool involved in the application, ensuring ease of understanding and use.
+3. **Running the Application**:
+   - Compile the Java files.
+   - Run `ApplicationCreation` to start the application process. This will load job listings, generate PDFs, perform duplicate checks, and send emails.
+   - Optionally, run `DubChecker` independently to manually check for duplicates before sending applications.
 
+4. **Adding New Job Listings**:
+   - Job listings should be added in JSON format. Follow the structure used in existing `*.json` files for compatibility.
 
+## Note
 
+This README assumes familiarity with Java development and the use of libraries such as iTextPDF and Java Mail API. For detailed documentation on these libraries, refer to their respective official documentation.
 
+## Disclaimer
 
-
-
-
-
-
-## Usage
-
-To use this system:
-
-1. Place the JSON files in the designated input directory.
-2. Ensure all configurations are set (SMTP, file paths).
-3. Run the application to process the files and send emails.
-
-## Future Enhancements
-
-- Implement a GUI for easier file management and progress tracking. Available now on https://bewerbr.de
-- Extend functionality to support different file formats beyond JSON.
-- Enhance duplicate detection with more sophisticated algorithms for larger datasets.
-
-## Contributing
-
-Contributions are welcome to improve the application. Please follow the standard pull request process for your contributions.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+ApplicationAutomation is intended for personal use and educational purposes. Users are responsible for ensuring that their use of the software complies with terms of service of the platforms they interact with and any applicable laws.
