@@ -30,7 +30,8 @@ ApplicationAutomation is a Java-based system designed to automate the job applic
 
 1. **Prerequisites**:
    - Java JDK 8 or newer.
-   - Access to an SMTP server for sending emails (e.g., Gmail SMTP).
+   - ~~Access to an SMTP server for sending emails (e.g., Gmail SMTP).~~
+   - Access to an SMTP server for sending emails (e.g., Outlook SMTP). Gmail is deprecated, they dont allow thirdparty access anymore.
    - iTextPDF library for PDF creation and manipulation.
 
 2. **Configuration**:
