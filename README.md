@@ -45,6 +45,44 @@ Emails are composed with a specific structure, including a greeting, body text r
 2. **Load JSON Files**: Place the JSON files to be compared in the specified directory.
 3. **Run the Application**: Execute the `ApplicationCreation` main method to start the process.
 
+
+# ScrapyLinkCreator
+
+## Description
+
+`ScrapyLinkCreator` is designed to parse a JSON file containing job listings and generate a list of URLs by appending the reference numbers found in the JSON to a predefined base URL.
+
+## Usage
+
+- Ensure the JSON file is located at `/home/bruh/IdeaProjects/ApplicationAutomation/src/main/java/argeinput/links5.json`.
+- The JSON file should have a structure where job listings are contained within an array named `stellenangebote`, and each listing has a `refnr` field.
+- Run `ScrapyLinkCreator` to print the generated URLs to the console.
+
+## Key Functionality
+
+- Reads and parses a JSON file.
+- Extracts `refnr` from each job listing in the array.
+- Concatenates each `refnr` with a base URL and prints the full URL.
+
+# DubChecker
+
+## Description
+
+`DubChecker` is designed to identify duplicate company names across two JSON files. It compares a list of new companies (`new.json`) against a list of existing companies (`all.json`) and outputs the names of companies that appear in both files.
+
+## Usage
+
+- Prepare two JSON files: one named `all.json` for old entries and another named `new.json` for new entries. Both should be located under `/home/bruh/IdeaProjects/ApplicationAutomation/src/main/java/argeinput/`.
+- Each JSON file should contain an array named `stellenangebote` with job listings, where each listing includes a `company` field.
+- Run `DubChecker` to print a list of duplicate company names to the console.
+
+## Key Functionality
+
+- Parses two JSON files to extract company names.
+- Compares company names across the two lists to identify duplicates.
+- Removes duplicate entries from the resulting list of duplicates and prints the unique duplicates.
+
+
 ## Usage
 
 To use this system:
