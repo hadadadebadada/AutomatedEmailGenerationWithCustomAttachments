@@ -29,49 +29,10 @@ Handles the construction and sending of emails, leveraging the Java Mail API for
 ### `ApplicationCreation`
 Manages the loading of JSON files for job listings, performs duplicate checks, and initiates the email sending process through `MailSender`.
 
-## Mail Sending Process
+### `DubChecker`
 
-The `MailSender` class is integral to the application, facilitating:
+### `ScrapyLinkCreator`
 
-- Configuration of email properties.
-- Authentication with SMTP servers.
-- Sending of emails, which may include attachments and are formatted with a greeting, body, and closing statement.
-
-## Email Composition
-
-Emails are crafted to include:
-
-- Dynamic content within the body text.
-- Attachments based on the requirements and data sourced from JSON files.
-
-## Setup and Configuration
-
-1. **Configure SMTP Settings**: Prioritize the setup of SMTP settings (username, password, host, port) within the `MailSender` class for email functionality.
-2. **Load JSON Files**: Ensure the necessary JSON files are placed in the designated directory for processing.
-3. **Run the Application**: Initiate the application by executing the `ApplicationCreation` main method, starting the automated process.
-
-## Utility Tools
-
-### ScrapyLinkCreator
-
-#### Description
-`ScrapyLinkCreator` is crafted to parse JSON files containing job listings, generating URLs by appending reference numbers to a base URL.
-
-#### Usage
-
-- JSON location: `/home/bruh/IdeaProjects/ApplicationAutomation/src/main/java/argeinput/links5.json`.
-- JSON structure: Array named `stellenangebote` with listings having a `refnr` field.
-- Execution: Run `ScrapyLinkCreator` to output generated URLs.
-
-#### Key Functionality
-
-- Parses JSON files to read job listings.
-- Extracts and appends `refnr` to a base URL, printing the full URLs.
-
-### DubChecker
-
-#### Description
-`DubChecker` aims to identify duplicate company names by comparing listings across two JSON files, `new.json` and `all.json`.
 
 #### Usage
 
