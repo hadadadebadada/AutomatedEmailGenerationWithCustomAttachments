@@ -46,7 +46,7 @@ Emails are composed with a specific structure, including a greeting, body text r
 3. **Run the Application**: Execute the `ApplicationCreation` main method to start the process.
 
 
-# ScrapyLinkCreator
+### ScrapyLinkCreator
 
 ## Description
 
