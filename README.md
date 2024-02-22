@@ -18,69 +18,76 @@ The application works in several key steps:
 
 ## Implementation Details
 
-### Dependencies
 
-- Java Mail API for email sending functionality.
-- JSON Parser for loading and parsing JSON files.
+# Application Automation Documentation
 
-### Key Components
+## Key Components
 
-- `MailSender`: Handles the construction and sending of emails.
-- `ApplicationCreation`: Manages the loading of JSON files, duplicate checking, and initiation of the email sending process.
+### `MailSender`
+Handles the construction and sending of emails, leveraging the Java Mail API for email creation and SMTP authentication.
 
-### Mail Sending Process
+### `ApplicationCreation`
+Manages the loading of JSON files for job listings, performs duplicate checks, and initiates the email sending process through `MailSender`.
 
-The `MailSender` class is responsible for setting up email properties, authenticating with the SMTP server, and sending emails with attachments. It uses the Java Mail API to create and send emails that include:
+## Mail Sending Process
 
-- Email body text with placeholders for dynamic content.
-- Attachments, typically documents or other relevant files.
+The `MailSender` class is integral to the application, facilitating:
 
-### Email Composition
+- Configuration of email properties.
+- Authentication with SMTP servers.
+- Sending of emails, which may include attachments and are formatted with a greeting, body, and closing statement.
 
-Emails are composed with a specific structure, including a greeting, body text relevant to the application, and a closing statement. Attachments are added as needed based on the data processed from the JSON files.
+## Email Composition
+
+Emails are crafted to include:
+
+- Dynamic content within the body text.
+- Attachments based on the requirements and data sourced from JSON files.
 
 ## Setup and Configuration
 
-1. **Configure SMTP Settings**: Before running the application, ensure that SMTP settings (username, password, host, port) are correctly configured in the `MailSender` class.
-2. **Load JSON Files**: Place the JSON files to be compared in the specified directory.
-3. **Run the Application**: Execute the `ApplicationCreation` main method to start the process.
+1. **Configure SMTP Settings**: Prioritize the setup of SMTP settings (username, password, host, port) within the `MailSender` class for email functionality.
+2. **Load JSON Files**: Ensure the necessary JSON files are placed in the designated directory for processing.
+3. **Run the Application**: Initiate the application by executing the `ApplicationCreation` main method, starting the automated process.
 
+## Utility Tools
 
 ### ScrapyLinkCreator
 
-## Description
+#### Description
+`ScrapyLinkCreator` is crafted to parse JSON files containing job listings, generating URLs by appending reference numbers to a base URL.
 
-`ScrapyLinkCreator` is designed to parse a JSON file containing job listings and generate a list of URLs by appending the reference numbers found in the JSON to a predefined base URL.
+#### Usage
 
-## Usage
+- JSON location: `/home/bruh/IdeaProjects/ApplicationAutomation/src/main/java/argeinput/links5.json`.
+- JSON structure: Array named `stellenangebote` with listings having a `refnr` field.
+- Execution: Run `ScrapyLinkCreator` to output generated URLs.
 
-- Ensure the JSON file is located at `/home/bruh/IdeaProjects/ApplicationAutomation/src/main/java/argeinput/links5.json`.
-- The JSON file should have a structure where job listings are contained within an array named `stellenangebote`, and each listing has a `refnr` field.
-- Run `ScrapyLinkCreator` to print the generated URLs to the console.
+#### Key Functionality
 
-## Key Functionality
+- Parses JSON files to read job listings.
+- Extracts and appends `refnr` to a base URL, printing the full URLs.
 
-- Reads and parses a JSON file.
-- Extracts `refnr` from each job listing in the array.
-- Concatenates each `refnr` with a base URL and prints the full URL.
+### DubChecker
 
-# DubChecker
+#### Description
+`DubChecker` aims to identify duplicate company names by comparing listings across two JSON files, `new.json` and `all.json`.
 
-## Description
+#### Usage
 
-`DubChecker` is designed to identify duplicate company names across two JSON files. It compares a list of new companies (`new.json`) against a list of existing companies (`all.json`) and outputs the names of companies that appear in both files.
+- File preparation: Place `all.json` and `new.json` in the specified directory.
+- JSON structure: Both files should include an array named `stellenangebote` with `company` fields in listings.
+- Execution: Run `DubChecker` to list duplicate company names.
 
-## Usage
+This structured documentation provides a clear overview of each component and utility tool involved in the application, ensuring ease of understanding and use.
 
-- Prepare two JSON files: one named `all.json` for old entries and another named `new.json` for new entries. Both should be located under `/home/bruh/IdeaProjects/ApplicationAutomation/src/main/java/argeinput/`.
-- Each JSON file should contain an array named `stellenangebote` with job listings, where each listing includes a `company` field.
-- Run `DubChecker` to print a list of duplicate company names to the console.
 
-## Key Functionality
 
-- Parses two JSON files to extract company names.
-- Compares company names across the two lists to identify duplicates.
-- Removes duplicate entries from the resulting list of duplicates and prints the unique duplicates.
+
+
+
+
+
 
 
 ## Usage
@@ -93,7 +100,7 @@ To use this system:
 
 ## Future Enhancements
 
-- Implement a GUI for easier file management and progress tracking.
+- Implement a GUI for easier file management and progress tracking. Available now on https://bewerbr.de
 - Extend functionality to support different file formats beyond JSON.
 - Enhance duplicate detection with more sophisticated algorithms for larger datasets.
 
