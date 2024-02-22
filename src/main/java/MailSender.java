@@ -14,8 +14,8 @@ public class MailSender {
 
     public void sendMail(String to, String attachment, String subject){
 
-        final String username = "pfeifer.artur1993@gmail.com";
-        final String password = "314159abc";
+        final String username = "";
+        final String password = "";
 
         Properties props = new java.util.Properties();
         props.put("mail.smtp.host", "smtp.gmail.com");
